@@ -1,0 +1,2318 @@
+[21-Oct-2025 05:36:53 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 05:36:53 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 05:37:08 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 05:37:08 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 05:38:38 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 05:38:38 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 05:38:43 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 05:38:43 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 05:39:32 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 05:39:32 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 05:39:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strlen() in C:\xampp\htdocs\chuan\week7\ecommerce-project\includes\functions.php:143
+Stack trace:
+#0 C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\process_login.php(14): validate_string('user@meal.com')
+#1 {main}
+  thrown in C:\xampp\htdocs\chuan\week7\ecommerce-project\includes\functions.php on line 143
+[21-Oct-2025 05:39:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strlen() in C:\xampp\htdocs\chuan\week7\ecommerce-project\includes\functions.php:143
+Stack trace:
+#0 C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\process_login.php(14): validate_string('user@meal.com')
+#1 {main}
+  thrown in C:\xampp\htdocs\chuan\week7\ecommerce-project\includes\functions.php on line 143
+[21-Oct-2025 05:39:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strlen() in C:\xampp\htdocs\chuan\week7\ecommerce-project\includes\functions.php:143
+Stack trace:
+#0 C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\process_login.php(14): validate_string('testuser')
+#1 {main}
+  thrown in C:\xampp\htdocs\chuan\week7\ecommerce-project\includes\functions.php on line 143
+[21-Oct-2025 05:40:09 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 05:40:09 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 05:40:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strlen() in C:\xampp\htdocs\chuan\week7\ecommerce-project\includes\functions.php:143
+Stack trace:
+#0 C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\process_login.php(14): validate_string('user@1.com')
+#1 {main}
+  thrown in C:\xampp\htdocs\chuan\week7\ecommerce-project\includes\functions.php on line 143
+[21-Oct-2025 05:40:34 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 05:40:34 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 05:40:37 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 05:40:37 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 05:42:48 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 05:42:48 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 05:44:33 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 05:44:33 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 05:44:35 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 05:44:35 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 05:44:46 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 05:44:46 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 05:51:56 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 05:51:56 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 05:51:58 UTC] Login attempt - Method: POST
+[21-Oct-2025 05:51:58 UTC] Login failed: CSRF token invalid
+[21-Oct-2025 05:51:58 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 05:51:58 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 05:52:21 UTC] Login attempt - Method: POST
+[21-Oct-2025 05:52:21 UTC] Login failed: CSRF token invalid
+[21-Oct-2025 05:52:21 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 05:52:21 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 05:54:22 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 05:54:22 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 05:54:29 UTC] Login attempt - Method: POST
+[21-Oct-2025 05:54:29 UTC] Login failed: CSRF token invalid
+[21-Oct-2025 05:54:30 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 05:54:30 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 05:54:44 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 05:54:44 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 05:55:22 UTC] Login attempt - Method: POST
+[21-Oct-2025 05:55:22 UTC] Login failed: CSRF token invalid
+[21-Oct-2025 05:55:23 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 05:55:23 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 05:55:30 UTC] Login attempt - Method: POST
+[21-Oct-2025 05:55:30 UTC] Login failed: CSRF token invalid
+[21-Oct-2025 05:55:30 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 05:55:30 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 05:59:37 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 05:59:37 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 05:59:40 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 05:59:40 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 05:59:54 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 05:59:54 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 06:00:28 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 06:00:28 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 06:01:36 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 06:01:36 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 06:02:16 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 06:02:16 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 06:02:42 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 06:02:42 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 06:11:28 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 06:11:28 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 06:11:31 UTC] === LOGIN ATTEMPT ===
+[21-Oct-2025 06:11:31 UTC] POST data: Array
+(
+    [csrf_token] => 
+    [username] => user@meal.com
+    [password] => pass123
+)
+
+[21-Oct-2025 06:11:31 UTC] PHP Warning:  Undefined global variable $_SESSION in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\process_login.php on line 7
+[21-Oct-2025 06:11:31 UTC] Session before: 
+[21-Oct-2025 06:11:31 UTC] Login credentials - Username: 'user@meal.com', Password: 'pass123'
+[21-Oct-2025 06:11:31 UTC] User not found
+[21-Oct-2025 06:11:31 UTC] Login failed, redirecting to login page
+[21-Oct-2025 06:11:32 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 06:11:32 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 06:22:27 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 06:22:27 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 06:22:31 UTC] === LOGIN ATTEMPT ===
+[21-Oct-2025 06:22:31 UTC] POST data: Array
+(
+    [csrf_token] => 
+    [username] => user@meal.com
+    [password] => pass123
+)
+
+[21-Oct-2025 06:22:31 UTC] Session before: Array
+(
+)
+
+[21-Oct-2025 06:22:31 UTC] Login credentials - Username: 'user@meal.com', Password: 'pass123'
+[21-Oct-2025 06:22:31 UTC] User not found
+[21-Oct-2025 06:22:31 UTC] Login failed, redirecting to login page
+[21-Oct-2025 06:24:27 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 06:24:27 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 06:34:17 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 06:34:17 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 06:34:19 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 06:34:19 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 06:34:22 UTC] === LOGIN PROCESS START ===
+[21-Oct-2025 06:34:22 UTC] Login attempt: user@meal.com
+[21-Oct-2025 06:34:22 UTC] User not found: user@meal.com
+[21-Oct-2025 06:34:22 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 06:34:22 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 06:34:37 UTC] === LOGIN PROCESS START ===
+[21-Oct-2025 06:34:37 UTC] Login attempt: admin
+[21-Oct-2025 06:34:37 UTC] User found: admin
+[21-Oct-2025 06:34:37 UTC] Password incorrect
+[21-Oct-2025 06:34:37 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 06:34:37 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 06:34:44 UTC] === LOGIN PROCESS START ===
+[21-Oct-2025 06:34:44 UTC] Login attempt: user@meal.com
+[21-Oct-2025 06:34:44 UTC] User not found: user@meal.com
+[21-Oct-2025 06:34:45 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 06:34:45 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 06:35:00 UTC] === LOGIN PROCESS START ===
+[21-Oct-2025 06:35:00 UTC] Login attempt: admin
+[21-Oct-2025 06:35:00 UTC] User found: admin
+[21-Oct-2025 06:35:00 UTC] Login SUCCESS - Redirecting to: /week7/ecommerce-project
+[21-Oct-2025 06:35:00 UTC] User fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'field list'
+[21-Oct-2025 06:35:37 UTC] User fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'field list'
+[21-Oct-2025 06:35:40 UTC] User fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'field list'
+[21-Oct-2025 06:35:43 UTC] User fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'field list'
+[21-Oct-2025 06:35:45 UTC] User fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'field list'
+[21-Oct-2025 06:35:46 UTC] User fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'field list'
+[21-Oct-2025 06:35:49 UTC] User fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'field list'
+[21-Oct-2025 06:36:01 UTC] User fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'field list'
+[21-Oct-2025 06:36:02 UTC] User fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'field list'
+[21-Oct-2025 06:36:05 UTC] User fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'field list'
+[21-Oct-2025 06:36:13 UTC] User fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'field list'
+[21-Oct-2025 06:36:15 UTC] User fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'field list'
+[21-Oct-2025 06:36:16 UTC] User fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'field list'
+[21-Oct-2025 06:37:24 UTC] User fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'field list'
+[21-Oct-2025 06:39:10 UTC] User fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'field list'
+[21-Oct-2025 06:39:12 UTC] User fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'field list'
+[21-Oct-2025 06:39:16 UTC] User fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'field list'
+[21-Oct-2025 06:39:21 UTC] User fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'field list'
+[21-Oct-2025 06:39:23 UTC] User fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'field list'
+[21-Oct-2025 06:39:28 UTC] User fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'field list'
+[21-Oct-2025 06:39:30 UTC] User fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'field list'
+[21-Oct-2025 06:39:38 UTC] User fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'field list'
+[21-Oct-2025 06:39:39 UTC] User fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'field list'
+[21-Oct-2025 06:39:40 UTC] User fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'field list'
+[21-Oct-2025 06:39:41 UTC] User fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'field list'
+[21-Oct-2025 06:39:42 UTC] User fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'field list'
+[21-Oct-2025 06:43:46 UTC] User fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'field list'
+[21-Oct-2025 06:43:46 UTC] Header - User logged in: yes
+[21-Oct-2025 06:43:46 UTC] Header - Current user: 
+[21-Oct-2025 06:43:52 UTC] User fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'field list'
+[21-Oct-2025 06:43:52 UTC] Header - User logged in: yes
+[21-Oct-2025 06:43:52 UTC] Header - Current user: 
+[21-Oct-2025 06:43:57 UTC] User fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'field list'
+[21-Oct-2025 06:43:57 UTC] Header - User logged in: yes
+[21-Oct-2025 06:43:57 UTC] Header - Current user: 
+[21-Oct-2025 06:43:59 UTC] User fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'field list'
+[21-Oct-2025 06:43:59 UTC] Header - User logged in: yes
+[21-Oct-2025 06:43:59 UTC] Header - Current user: 
+[21-Oct-2025 06:44:01 UTC] User fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'field list'
+[21-Oct-2025 06:44:01 UTC] Header - User logged in: yes
+[21-Oct-2025 06:44:01 UTC] Header - Current user: 
+[21-Oct-2025 06:44:04 UTC] User fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'field list'
+[21-Oct-2025 06:44:04 UTC] Header - User logged in: yes
+[21-Oct-2025 06:44:04 UTC] Header - Current user: 
+[21-Oct-2025 06:44:07 UTC] User fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'field list'
+[21-Oct-2025 06:44:07 UTC] Header - User logged in: yes
+[21-Oct-2025 06:44:07 UTC] Header - Current user: 
+[21-Oct-2025 06:45:13 UTC] User fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'field list'
+[21-Oct-2025 06:45:13 UTC] Header - User logged in: yes
+[21-Oct-2025 06:45:13 UTC] Header - Current user: 
+[21-Oct-2025 06:45:17 UTC] User fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'field list'
+[21-Oct-2025 06:45:17 UTC] Header - User logged in: yes
+[21-Oct-2025 06:45:17 UTC] Header - Current user: 
+[21-Oct-2025 06:45:21 UTC] User fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'field list'
+[21-Oct-2025 06:45:21 UTC] Header - User logged in: yes
+[21-Oct-2025 06:45:21 UTC] Header - Current user: 
+[21-Oct-2025 06:45:39 UTC] User fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'field list'
+[21-Oct-2025 06:45:39 UTC] Header - User logged in: yes
+[21-Oct-2025 06:45:39 UTC] Header - Current user: 
+[21-Oct-2025 06:50:39 UTC] Init completed - BASE_URL: /week7/ecommerce-project
+[21-Oct-2025 06:50:39 UTC] User fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'field list'
+[21-Oct-2025 06:50:39 UTC] Header - User logged in: yes
+[21-Oct-2025 06:50:39 UTC] Header - Current user: 
+[21-Oct-2025 06:50:40 UTC] Init completed - BASE_URL: /week7/ecommerce-project
+[21-Oct-2025 06:50:40 UTC] Init completed - BASE_URL: /week7/ecommerce-project
+[21-Oct-2025 06:50:40 UTC] User fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'field list'
+[21-Oct-2025 06:50:40 UTC] Header - User logged in: yes
+[21-Oct-2025 06:50:40 UTC] Header - Current user: 
+[21-Oct-2025 06:50:42 UTC] Init completed - BASE_URL: /week7/ecommerce-project
+[21-Oct-2025 06:50:42 UTC] Init completed - BASE_URL: /week7/ecommerce-project
+[21-Oct-2025 06:50:42 UTC] User fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'field list'
+[21-Oct-2025 06:50:42 UTC] Header - User logged in: yes
+[21-Oct-2025 06:50:42 UTC] Header - Current user: 
+[21-Oct-2025 06:53:42 UTC] Init completed - BASE_URL: /week7/ecommerce-project
+[21-Oct-2025 06:53:42 UTC] Header - User logged in: no
+[21-Oct-2025 06:53:42 UTC] Header - Current user: 
+[21-Oct-2025 06:53:44 UTC] Init completed - BASE_URL: /week7/ecommerce-project
+[21-Oct-2025 06:53:44 UTC] Header - User logged in: no
+[21-Oct-2025 06:53:44 UTC] Header - Current user: 
+[21-Oct-2025 06:53:47 UTC] Init completed - BASE_URL: /week7/ecommerce-project
+[21-Oct-2025 06:53:47 UTC] Header - User logged in: no
+[21-Oct-2025 06:53:47 UTC] Header - Current user: 
+[21-Oct-2025 06:53:49 UTC] Init completed - BASE_URL: /week7/ecommerce-project
+[21-Oct-2025 06:53:49 UTC] Header - User logged in: no
+[21-Oct-2025 06:53:49 UTC] Header - Current user: 
+[21-Oct-2025 06:53:49 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 06:53:49 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 06:54:07 UTC] Init completed - BASE_URL: /week7/ecommerce-project
+[21-Oct-2025 06:54:07 UTC] === LOGIN PROCESS START ===
+[21-Oct-2025 06:54:07 UTC] Login attempt: admin
+[21-Oct-2025 06:54:07 UTC] User found: admin
+[21-Oct-2025 06:54:07 UTC] Password incorrect
+[21-Oct-2025 06:54:07 UTC] Init completed - BASE_URL: /week7/ecommerce-project
+[21-Oct-2025 06:54:07 UTC] Header - User logged in: no
+[21-Oct-2025 06:54:07 UTC] Header - Current user: 
+[21-Oct-2025 06:54:07 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 06:54:07 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 06:54:16 UTC] Init completed - BASE_URL: /week7/ecommerce-project
+[21-Oct-2025 06:54:16 UTC] Header - User logged in: no
+[21-Oct-2025 06:54:16 UTC] Header - Current user: 
+[21-Oct-2025 06:54:38 UTC] Init completed - BASE_URL: /week7/ecommerce-project
+[21-Oct-2025 06:54:38 UTC] Init completed - BASE_URL: /week7/ecommerce-project
+[21-Oct-2025 06:54:38 UTC] Header - User logged in: no
+[21-Oct-2025 06:54:38 UTC] Header - Current user: 
+[21-Oct-2025 06:54:55 UTC] Init completed - BASE_URL: /week7/ecommerce-project
+[21-Oct-2025 06:54:55 UTC] Header - User logged in: no
+[21-Oct-2025 06:54:55 UTC] Header - Current user: 
+[21-Oct-2025 06:54:55 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 06:54:55 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 06:54:58 UTC] Init completed - BASE_URL: /week7/ecommerce-project
+[21-Oct-2025 06:54:58 UTC] === LOGIN PROCESS START ===
+[21-Oct-2025 06:54:58 UTC] Login attempt: admin
+[21-Oct-2025 06:54:58 UTC] User found: admin
+[21-Oct-2025 06:54:58 UTC] Login SUCCESS - Redirecting to: /week7/ecommerce-project
+[21-Oct-2025 06:54:58 UTC] Init completed - BASE_URL: /week7/ecommerce-project
+[21-Oct-2025 06:54:58 UTC] User fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'field list'
+[21-Oct-2025 06:54:58 UTC] Header - User logged in: yes
+[21-Oct-2025 06:54:58 UTC] Header - Current user: 
+[21-Oct-2025 06:55:02 UTC] Init completed - BASE_URL: /week7/ecommerce-project
+[21-Oct-2025 06:55:02 UTC] Init completed - BASE_URL: /week7/ecommerce-project
+[21-Oct-2025 06:55:02 UTC] User fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'field list'
+[21-Oct-2025 06:55:02 UTC] Header - User logged in: yes
+[21-Oct-2025 06:55:02 UTC] Header - Current user: 
+[21-Oct-2025 06:55:15 UTC] Init completed - BASE_URL: /week7/ecommerce-project
+[21-Oct-2025 06:55:15 UTC] Init completed - BASE_URL: /week7/ecommerce-project
+[21-Oct-2025 06:55:15 UTC] User fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'field list'
+[21-Oct-2025 06:55:15 UTC] Header - User logged in: yes
+[21-Oct-2025 06:55:15 UTC] Header - Current user: 
+[21-Oct-2025 06:55:16 UTC] Init completed - BASE_URL: /week7/ecommerce-project
+[21-Oct-2025 06:55:16 UTC] Init completed - BASE_URL: /week7/ecommerce-project
+[21-Oct-2025 06:55:16 UTC] User fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'field list'
+[21-Oct-2025 06:55:16 UTC] Header - User logged in: yes
+[21-Oct-2025 06:55:16 UTC] Header - Current user: 
+[21-Oct-2025 06:55:17 UTC] Init completed - BASE_URL: /week7/ecommerce-project
+[21-Oct-2025 06:55:17 UTC] Init completed - BASE_URL: /week7/ecommerce-project
+[21-Oct-2025 06:55:17 UTC] User fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'field list'
+[21-Oct-2025 06:55:17 UTC] Header - User logged in: yes
+[21-Oct-2025 06:55:17 UTC] Header - Current user: 
+[21-Oct-2025 06:55:30 UTC] Init completed - BASE_URL: /week7/ecommerce-project
+[21-Oct-2025 06:55:30 UTC] User fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'field list'
+[21-Oct-2025 06:55:30 UTC] Header - User logged in: yes
+[21-Oct-2025 06:55:30 UTC] Header - Current user: 
+[21-Oct-2025 06:55:32 UTC] Init completed - BASE_URL: /week7/ecommerce-project
+[21-Oct-2025 06:55:32 UTC] Init completed - BASE_URL: /week7/ecommerce-project
+[21-Oct-2025 06:55:32 UTC] User fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'field list'
+[21-Oct-2025 06:55:32 UTC] Header - User logged in: yes
+[21-Oct-2025 06:55:32 UTC] Header - Current user: 
+[21-Oct-2025 06:55:35 UTC] Init completed - BASE_URL: /week7/ecommerce-project
+[21-Oct-2025 06:55:35 UTC] User fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'field list'
+[21-Oct-2025 06:55:35 UTC] Header - User logged in: yes
+[21-Oct-2025 06:55:35 UTC] Header - Current user: 
+[21-Oct-2025 06:55:36 UTC] Init completed - BASE_URL: /week7/ecommerce-project
+[21-Oct-2025 06:55:37 UTC] Init completed - BASE_URL: /week7/ecommerce-project
+[21-Oct-2025 06:55:37 UTC] User fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'field list'
+[21-Oct-2025 06:55:37 UTC] Header - User logged in: yes
+[21-Oct-2025 06:55:37 UTC] Header - Current user: 
+[21-Oct-2025 07:01:38 UTC] Init completed - BASE_URL: /week7/ecommerce-project
+[21-Oct-2025 07:01:38 UTC] Header Debug - User ID: 1
+[21-Oct-2025 07:01:38 UTC] Header Debug - Username: admin
+[21-Oct-2025 07:01:38 UTC] Header Debug - Is logged in: yes
+[21-Oct-2025 07:02:16 UTC] Init completed - BASE_URL: /week7/ecommerce-project
+[21-Oct-2025 07:02:16 UTC] Header Debug - User ID: 1
+[21-Oct-2025 07:02:16 UTC] Header Debug - Username: admin
+[21-Oct-2025 07:02:16 UTC] Header Debug - Is logged in: yes
+[21-Oct-2025 07:02:29 UTC] Init completed - BASE_URL: /week7/ecommerce-project
+[21-Oct-2025 07:02:29 UTC] Header Debug - User ID: 1
+[21-Oct-2025 07:02:29 UTC] Header Debug - Username: admin
+[21-Oct-2025 07:02:29 UTC] Header Debug - Is logged in: yes
+[21-Oct-2025 07:04:03 UTC] Init completed - BASE_URL: /week7/ecommerce-project
+[21-Oct-2025 07:04:03 UTC] Header Debug - User ID: 1
+[21-Oct-2025 07:04:03 UTC] Header Debug - Username: admin
+[21-Oct-2025 07:04:03 UTC] Header Debug - Is logged in: yes
+[21-Oct-2025 07:12:45 UTC] Init completed - BASE_URL: http://localhost:3000/week7/ecommerce-project
+[21-Oct-2025 07:12:45 UTC] Header Debug - User ID: 1
+[21-Oct-2025 07:12:45 UTC] Header Debug - Username: admin
+[21-Oct-2025 07:12:45 UTC] Header Debug - Is logged in: yes
+[21-Oct-2025 07:12:52 UTC] Init completed - BASE_URL: http://localhost:3000/week7/ecommerce-project/auth
+[21-Oct-2025 07:12:52 UTC] User logout: admin
+[21-Oct-2025 07:12:54 UTC] Init completed - BASE_URL: http://localhost:3000/week7/ecommerce-project
+[21-Oct-2025 07:12:54 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:12:54 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:12:54 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:13:05 UTC] Init completed - BASE_URL: http://localhost:3000/week7/ecommerce-project
+[21-Oct-2025 07:13:05 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:13:05 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:13:05 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:13:08 UTC] Init completed - BASE_URL: http://localhost:3000/week7/ecommerce-project/auth
+[21-Oct-2025 07:13:08 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:13:08 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:13:08 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:13:08 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 07:13:08 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 07:13:11 UTC] Init completed - BASE_URL: http://localhost:3000/week7/ecommerce-project/auth
+[21-Oct-2025 07:13:11 UTC] === LOGIN PROCESS START ===
+[21-Oct-2025 07:13:11 UTC] Login attempt: admin
+[21-Oct-2025 07:13:11 UTC] User found: admin
+[21-Oct-2025 07:13:11 UTC] Login SUCCESS - Redirecting to: http://localhost:3000/week7/ecommerce-project/auth
+[21-Oct-2025 07:13:22 UTC] Init completed - BASE_URL: http://localhost:3000/week7/ecommerce-project/auth
+[21-Oct-2025 07:13:22 UTC] === LOGIN PROCESS START ===
+[21-Oct-2025 07:13:22 UTC] Login attempt: admin
+[21-Oct-2025 07:13:22 UTC] User found: admin
+[21-Oct-2025 07:13:22 UTC] Login SUCCESS - Redirecting to: http://localhost:3000/week7/ecommerce-project/auth
+[21-Oct-2025 07:13:26 UTC] Init completed - BASE_URL: http://localhost:3000/week7/ecommerce-project/auth
+[21-Oct-2025 07:14:07 UTC] Init completed - BASE_URL: http://localhost:3000/week7/ecommerce-project
+[21-Oct-2025 07:14:07 UTC] Header Debug - User ID: 1
+[21-Oct-2025 07:14:07 UTC] Header Debug - Username: admin
+[21-Oct-2025 07:14:07 UTC] Header Debug - Is logged in: yes
+[21-Oct-2025 07:14:12 UTC] Init completed - BASE_URL: http://localhost:3000/week7/ecommerce-project/user
+[21-Oct-2025 07:14:12 UTC] User fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'field list'
+[21-Oct-2025 07:14:24 UTC] Init completed - BASE_URL: http://localhost:3000/week7/ecommerce-project
+[21-Oct-2025 07:14:24 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:14:24 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:14:24 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:14:25 UTC] Init completed - BASE_URL: http://localhost:3000/week7/ecommerce-project
+[21-Oct-2025 07:14:25 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:14:25 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:14:25 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:14:26 UTC] Init completed - BASE_URL: http://localhost:3000/week7/ecommerce-project/auth
+[21-Oct-2025 07:14:26 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:14:26 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:14:26 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:14:26 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 07:14:26 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 07:14:27 UTC] Init completed - BASE_URL: http://localhost:3000/week7/ecommerce-project/auth
+[21-Oct-2025 07:14:27 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:14:27 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:14:27 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:14:28 UTC] Init completed - BASE_URL: http://localhost:3000/week7/ecommerce-project/products
+[21-Oct-2025 07:14:28 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:14:28 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:14:28 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:14:29 UTC] Init completed - BASE_URL: http://localhost:3000/week7/ecommerce-project/products
+[21-Oct-2025 07:14:29 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:14:29 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:14:29 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:14:29 UTC] Init completed - BASE_URL: http://localhost:3000/week7/ecommerce-project/products
+[21-Oct-2025 07:14:29 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:14:29 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:14:29 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:14:29 UTC] Init completed - BASE_URL: http://localhost:3000/week7/ecommerce-project/products
+[21-Oct-2025 07:14:29 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:14:29 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:14:29 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:14:29 UTC] Init completed - BASE_URL: http://localhost:3000/week7/ecommerce-project/products
+[21-Oct-2025 07:14:29 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:14:29 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:14:29 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:14:29 UTC] Init completed - BASE_URL: http://localhost:3000/week7/ecommerce-project/products
+[21-Oct-2025 07:14:29 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:14:29 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:14:29 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:14:29 UTC] Init completed - BASE_URL: http://localhost:3000/week7/ecommerce-project/products
+[21-Oct-2025 07:14:29 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:14:29 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:14:29 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:16:56 UTC] Init completed - BASE_URL: http://localhost:3000/week7/ecommerce-project
+[21-Oct-2025 07:16:56 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:16:56 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:16:56 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:17:01 UTC] Init completed - BASE_URL: http://localhost:3000/week7/ecommerce-project/products
+[21-Oct-2025 07:17:01 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:17:01 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:17:01 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:17:01 UTC] Init completed - BASE_URL: http://localhost:3000/week7/ecommerce-project/products
+[21-Oct-2025 07:17:01 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:17:01 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:17:01 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:17:02 UTC] Init completed - BASE_URL: http://localhost:3000/week7/ecommerce-project/products
+[21-Oct-2025 07:17:02 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:17:02 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:17:02 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:17:02 UTC] Init completed - BASE_URL: http://localhost:3000/week7/ecommerce-project/products
+[21-Oct-2025 07:17:02 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:17:02 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:17:02 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:17:02 UTC] Init completed - BASE_URL: http://localhost:3000/week7/ecommerce-project/products
+[21-Oct-2025 07:17:02 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:17:02 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:17:02 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:17:02 UTC] Init completed - BASE_URL: http://localhost:3000/week7/ecommerce-project/products
+[21-Oct-2025 07:17:02 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:17:02 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:17:02 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:17:02 UTC] Init completed - BASE_URL: http://localhost:3000/week7/ecommerce-project/products
+[21-Oct-2025 07:17:02 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:17:02 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:17:02 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:17:02 UTC] Init completed - BASE_URL: http://localhost:3000/week7/ecommerce-project/products
+[21-Oct-2025 07:17:02 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:17:02 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:17:02 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:17:04 UTC] Init completed - BASE_URL: http://localhost:3000/week7/ecommerce-project/auth
+[21-Oct-2025 07:17:04 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:17:04 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:17:04 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:17:04 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 07:17:04 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 07:17:06 UTC] Init completed - BASE_URL: http://localhost:3000/week7/ecommerce-project
+[21-Oct-2025 07:17:06 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:17:06 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:17:06 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:17:08 UTC] Init completed - BASE_URL: http://localhost:3000/week7/ecommerce-project
+[21-Oct-2025 07:17:08 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:17:08 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:17:08 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:17:08 UTC] Init completed - BASE_URL: http://localhost:3000/week7/ecommerce-project/products
+[21-Oct-2025 07:17:08 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:17:08 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:17:08 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:17:08 UTC] Init completed - BASE_URL: http://localhost:3000/week7/ecommerce-project/products
+[21-Oct-2025 07:17:08 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:17:08 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:17:08 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:17:08 UTC] Init completed - BASE_URL: http://localhost:3000/week7/ecommerce-project/products
+[21-Oct-2025 07:17:08 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:17:08 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:17:08 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:17:09 UTC] Init completed - BASE_URL: http://localhost:3000/week7/ecommerce-project/products
+[21-Oct-2025 07:17:09 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:17:09 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:17:09 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:17:09 UTC] Init completed - BASE_URL: http://localhost:3000/week7/ecommerce-project/products
+[21-Oct-2025 07:17:09 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:17:09 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:17:09 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:17:09 UTC] Init completed - BASE_URL: http://localhost:3000/week7/ecommerce-project/products
+[21-Oct-2025 07:17:09 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:17:09 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:17:09 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:17:09 UTC] Init completed - BASE_URL: http://localhost:3000/week7/ecommerce-project/products
+[21-Oct-2025 07:17:09 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:17:09 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:17:09 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:17:09 UTC] Init completed - BASE_URL: http://localhost:3000/week7/ecommerce-project/products
+[21-Oct-2025 07:17:09 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:17:09 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:17:09 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:17:10 UTC] Init completed - BASE_URL: http://localhost:3000/week7/ecommerce-project/auth
+[21-Oct-2025 07:17:10 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:17:10 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:17:10 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:17:10 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 07:17:10 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 07:17:11 UTC] Init completed - BASE_URL: http://localhost:3000/week7/ecommerce-project/auth
+[21-Oct-2025 07:17:11 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:17:11 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:17:11 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:17:55 UTC] Init completed - BASE_URL: http://localhost:3000/week7/ecommerce-project
+[21-Oct-2025 07:17:55 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:17:55 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:17:55 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:17:56 UTC] Init completed - BASE_URL: http://localhost:3000/week7/ecommerce-project/auth
+[21-Oct-2025 07:17:56 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:17:56 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:17:56 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:17:56 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 07:17:56 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 07:18:38 UTC] Init completed - BASE_URL: http://localhost:3000/week7/ecommerce-project
+[21-Oct-2025 07:18:38 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:18:38 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:18:38 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:18:39 UTC] Init completed - BASE_URL: http://localhost:3000/week7/ecommerce-project/auth
+[21-Oct-2025 07:18:39 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:18:39 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:18:39 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:18:39 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 07:18:39 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\auth/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\login.php on line 46
+[21-Oct-2025 07:18:43 UTC] Init completed - BASE_URL: http://localhost:3000/week7/ecommerce-project
+[21-Oct-2025 07:18:43 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:18:43 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:18:43 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:22:45 UTC] Init completed - BASE_URL: http://localhost:3000/week7/ecommerce-project/products
+[21-Oct-2025 07:22:45 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:22:45 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:22:45 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:22:45 UTC] Init completed - BASE_URL: http://localhost:3000/week7/ecommerce-project/products
+[21-Oct-2025 07:22:45 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:22:45 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:22:45 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:22:45 UTC] Init completed - BASE_URL: http://localhost:3000/week7/ecommerce-project/products
+[21-Oct-2025 07:22:45 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:22:45 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:22:45 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:22:45 UTC] Init completed - BASE_URL: http://localhost:3000/week7/ecommerce-project/products
+[21-Oct-2025 07:22:45 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:22:45 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:22:45 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:22:45 UTC] Init completed - BASE_URL: http://localhost:3000/week7/ecommerce-project/products
+[21-Oct-2025 07:22:45 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:22:45 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:22:45 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:22:45 UTC] Init completed - BASE_URL: http://localhost:3000/week7/ecommerce-project/products
+[21-Oct-2025 07:22:45 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:22:45 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:22:45 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:22:45 UTC] Init completed - BASE_URL: http://localhost:3000/week7/ecommerce-project/products
+[21-Oct-2025 07:22:46 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:22:46 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:22:46 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:28:31 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:28:31 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:28:31 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:28:34 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:28:34 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:28:34 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:28:40 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:28:40 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:28:40 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:28:41 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:28:41 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:28:41 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:28:41 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:28:41 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:28:41 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:28:42 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:28:42 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:28:42 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:28:42 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:28:42 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:28:42 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:28:42 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:28:42 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:28:42 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:28:42 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:28:42 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:28:42 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:28:42 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:28:42 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:28:42 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:28:42 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:28:42 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:28:42 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:28:42 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:28:42 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:28:42 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:29:36 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:29:36 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:29:36 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:29:57 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:29:57 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:29:57 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:29:57 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:29:57 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:29:57 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:29:57 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:29:57 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:29:57 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:29:57 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:29:57 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:29:57 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:29:58 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:29:58 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:29:58 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:29:58 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:29:58 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:29:58 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:29:58 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:29:58 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:29:58 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:29:58 UTC] Header Debug - User ID: not set
+[21-Oct-2025 07:29:58 UTC] Header Debug - Username: not set
+[21-Oct-2025 07:29:58 UTC] Header Debug - Is logged in: no
+[21-Oct-2025 07:37:44 UTC] === LOGIN PROCESS START ===
+[21-Oct-2025 07:37:44 UTC] Login attempt: admin
+[21-Oct-2025 07:37:44 UTC] User found: admin
+[21-Oct-2025 07:37:44 UTC] Login SUCCESS - Redirecting to: /week7/ecommerce-project
+[21-Oct-2025 07:38:01 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 21
+[21-Oct-2025 07:39:29 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 21
+[21-Oct-2025 07:44:04 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 21
+[21-Oct-2025 07:54:58 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[21-Oct-2025 07:54:58 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[21-Oct-2025 07:56:24 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[21-Oct-2025 07:56:24 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[21-Oct-2025 07:56:41 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[21-Oct-2025 07:56:41 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[21-Oct-2025 07:56:55 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[21-Oct-2025 07:56:55 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[21-Oct-2025 07:57:25 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 21
+[21-Oct-2025 07:57:38 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[21-Oct-2025 07:57:38 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[21-Oct-2025 07:59:21 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[21-Oct-2025 07:59:21 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[21-Oct-2025 07:59:59 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[21-Oct-2025 07:59:59 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[21-Oct-2025 08:00:50 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[21-Oct-2025 08:00:50 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[21-Oct-2025 08:01:16 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[21-Oct-2025 08:01:16 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[21-Oct-2025 08:05:37 UTC] === CART PAGE LOAD ===
+[21-Oct-2025 08:05:37 UTC] Session cart: empty
+[21-Oct-2025 08:05:37 UTC] Cart is empty
+[21-Oct-2025 08:05:37 UTC] Cart page ready - Items: 0, Total: $0
+[21-Oct-2025 08:05:40 UTC] === CART PAGE LOAD ===
+[21-Oct-2025 08:05:40 UTC] Session cart: empty
+[21-Oct-2025 08:05:40 UTC] Cart is empty
+[21-Oct-2025 08:05:40 UTC] Cart page ready - Items: 0, Total: $0
+[21-Oct-2025 08:05:42 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 21
+[21-Oct-2025 08:05:50 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[21-Oct-2025 08:05:50 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[21-Oct-2025 08:05:52 UTC] === ADD TO CART START ===
+[21-Oct-2025 08:05:52 UTC] CSRF token invalid
+[21-Oct-2025 08:05:54 UTC] === CART PAGE LOAD ===
+[21-Oct-2025 08:05:54 UTC] Session cart: empty
+[21-Oct-2025 08:05:54 UTC] Cart is empty
+[21-Oct-2025 08:05:54 UTC] Cart page ready - Items: 0, Total: $0
+[21-Oct-2025 08:06:48 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[21-Oct-2025 08:06:48 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[21-Oct-2025 08:06:50 UTC] === ADD TO CART START ===
+[21-Oct-2025 08:06:50 UTC] CSRF token invalid
+[21-Oct-2025 08:06:53 UTC] === CART PAGE LOAD ===
+[21-Oct-2025 08:06:53 UTC] Session cart: empty
+[21-Oct-2025 08:06:53 UTC] Cart is empty
+[21-Oct-2025 08:06:53 UTC] Cart page ready - Items: 0, Total: $0
+[21-Oct-2025 08:07:10 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[21-Oct-2025 08:07:10 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[21-Oct-2025 08:07:27 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[21-Oct-2025 08:07:27 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[21-Oct-2025 11:47:01 UTC] Database connection failed: SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+[21-Oct-2025 11:57:52 UTC] === LOGIN PROCESS START ===
+[21-Oct-2025 11:57:52 UTC] Login attempt: admin
+[21-Oct-2025 11:57:52 UTC] User found: admin
+[21-Oct-2025 11:57:52 UTC] Login SUCCESS - Redirecting to: /week7/ecommerce-project
+[21-Oct-2025 11:58:03 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[21-Oct-2025 11:58:03 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[21-Oct-2025 11:58:09 UTC] === ADD TO CART START ===
+[21-Oct-2025 11:58:09 UTC] CSRF token invalid
+[21-Oct-2025 11:59:06 UTC] === CART PAGE LOAD ===
+[21-Oct-2025 11:59:06 UTC] Session cart: empty
+[21-Oct-2025 11:59:06 UTC] Cart is empty
+[21-Oct-2025 11:59:06 UTC] Cart page ready - Items: 0, Total: $0
+[21-Oct-2025 12:02:00 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[21-Oct-2025 12:02:00 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[21-Oct-2025 12:04:25 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[21-Oct-2025 12:04:25 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[21-Oct-2025 12:04:27 UTC] === ADD TO CART START ===
+[21-Oct-2025 12:04:27 UTC] User not logged in
+[21-Oct-2025 12:04:30 UTC] === LOGIN PROCESS START ===
+[21-Oct-2025 12:04:30 UTC] Login attempt: admin
+[21-Oct-2025 12:04:30 UTC] User found: admin
+[21-Oct-2025 12:04:30 UTC] Login SUCCESS - Redirecting to: /week7/ecommerce-project
+[21-Oct-2025 12:04:39 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[21-Oct-2025 12:04:39 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[21-Oct-2025 12:04:42 UTC] === ADD TO CART START ===
+[21-Oct-2025 12:04:42 UTC] CSRF token invalid
+[21-Oct-2025 12:05:39 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[21-Oct-2025 12:05:39 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[21-Oct-2025 12:05:51 UTC] === ADD TO CART START ===
+[21-Oct-2025 12:05:51 UTC] CSRF token invalid
+[21-Oct-2025 12:28:38 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[21-Oct-2025 12:28:38 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[21-Oct-2025 12:28:41 UTC] === ADD TO CART STARTED ===
+[21-Oct-2025 12:28:41 UTC] Product ID: 2, Quantity: 1
+[21-Oct-2025 12:28:41 UTC] Cart initialized
+[21-Oct-2025 12:28:41 UTC] Cart after add: Array
+(
+    [2] => 1
+)
+
+[21-Oct-2025 12:28:41 UTC] Redirecting to: /week7/ecommerce-project/cart/
+[21-Oct-2025 12:28:41 UTC] === CART PAGE LOAD ===
+[21-Oct-2025 12:28:41 UTC] Session cart: Array
+(
+    [2] => 1
+)
+
+[21-Oct-2025 12:28:41 UTC] Cart items loaded: 1 items
+[21-Oct-2025 12:28:41 UTC] Cart page ready - Items: 1, Total: $159.99
+[21-Oct-2025 12:28:52 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[21-Oct-2025 12:28:52 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[21-Oct-2025 12:28:54 UTC] === ADD TO CART STARTED ===
+[21-Oct-2025 12:28:54 UTC] Product ID: 1, Quantity: 1
+[21-Oct-2025 12:28:54 UTC] Cart after add: Array
+(
+    [2] => 1
+    [1] => 1
+)
+
+[21-Oct-2025 12:28:54 UTC] Redirecting to: /week7/ecommerce-project/cart/
+[21-Oct-2025 12:28:54 UTC] === CART PAGE LOAD ===
+[21-Oct-2025 12:28:54 UTC] Session cart: Array
+(
+    [2] => 1
+    [1] => 1
+)
+
+[21-Oct-2025 12:28:54 UTC] Cart items loaded: 2 items
+[21-Oct-2025 12:28:54 UTC] Cart page ready - Items: 2, Total: $309.98
+[21-Oct-2025 12:54:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strlen() in C:\xampp\htdocs\chuan\week7\ecommerce-project\includes\functions.php:146
+Stack trace:
+#0 C:\xampp\htdocs\chuan\week7\ecommerce-project\cart\checkout.php(53): validate_string('132', 500)
+#1 {main}
+  thrown in C:\xampp\htdocs\chuan\week7\ecommerce-project\includes\functions.php on line 146
+[21-Oct-2025 12:54:46 UTC] === CART PAGE LOAD ===
+[21-Oct-2025 12:54:46 UTC] Session cart: Array
+(
+    [2] => 1
+    [1] => 1
+)
+
+[21-Oct-2025 12:54:46 UTC] Cart items loaded: 2 items
+[21-Oct-2025 12:54:46 UTC] Cart page ready - Items: 2, Total: $309.98
+[21-Oct-2025 12:54:55 UTC] === CART PAGE LOAD ===
+[21-Oct-2025 12:54:55 UTC] Session cart: Array
+(
+    [2] => 1
+    [1] => 1
+)
+
+[21-Oct-2025 12:54:55 UTC] Cart items loaded: 2 items
+[21-Oct-2025 12:54:55 UTC] Cart page ready - Items: 2, Total: $309.98
+[21-Oct-2025 12:55:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strlen() in C:\xampp\htdocs\chuan\week7\ecommerce-project\includes\functions.php:146
+Stack trace:
+#0 C:\xampp\htdocs\chuan\week7\ecommerce-project\cart\checkout.php(53): validate_string('232', 500)
+#1 {main}
+  thrown in C:\xampp\htdocs\chuan\week7\ecommerce-project\includes\functions.php on line 146
+[21-Oct-2025 12:56:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strlen() in C:\xampp\htdocs\chuan\week7\ecommerce-project\includes\functions.php:146
+Stack trace:
+#0 C:\xampp\htdocs\chuan\week7\ecommerce-project\cart\checkout.php(53): validate_string('123', 500)
+#1 {main}
+  thrown in C:\xampp\htdocs\chuan\week7\ecommerce-project\includes\functions.php on line 146
+[21-Oct-2025 12:57:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strlen() in C:\xampp\htdocs\chuan\week7\ecommerce-project\includes\functions.php:146
+Stack trace:
+#0 C:\xampp\htdocs\chuan\week7\ecommerce-project\cart\checkout.php(53): validate_string('123', 500)
+#1 {main}
+  thrown in C:\xampp\htdocs\chuan\week7\ecommerce-project\includes\functions.php on line 146
+[21-Oct-2025 12:58:23 UTC] === CART PAGE LOAD ===
+[21-Oct-2025 12:58:23 UTC] Session cart: Array
+(
+    [2] => 1
+    [1] => 1
+)
+
+[21-Oct-2025 12:58:23 UTC] Cart items loaded: 2 items
+[21-Oct-2025 12:58:23 UTC] Cart page ready - Items: 2, Total: $309.98
+[21-Oct-2025 12:58:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strlen() in C:\xampp\htdocs\chuan\week7\ecommerce-project\includes\functions.php:146
+Stack trace:
+#0 C:\xampp\htdocs\chuan\week7\ecommerce-project\cart\checkout.php(53): validate_string('123', 500)
+#1 {main}
+  thrown in C:\xampp\htdocs\chuan\week7\ecommerce-project\includes\functions.php on line 146
+[21-Oct-2025 13:01:00 UTC] === CART PAGE LOAD ===
+[21-Oct-2025 13:01:00 UTC] Session cart: Array
+(
+    [2] => 1
+    [1] => 1
+)
+
+[21-Oct-2025 13:01:00 UTC] Cart items loaded: 2 items
+[21-Oct-2025 13:01:00 UTC] Cart page ready - Items: 2, Total: $309.98
+[21-Oct-2025 13:01:05 UTC] === CART PAGE LOAD ===
+[21-Oct-2025 13:01:05 UTC] Session cart: Array
+(
+    [2] => 1
+    [1] => 1
+)
+
+[21-Oct-2025 13:01:05 UTC] Cart items loaded: 2 items
+[21-Oct-2025 13:01:05 UTC] Cart page ready - Items: 2, Total: $309.98
+[21-Oct-2025 13:01:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strlen() in C:\xampp\htdocs\chuan\week7\ecommerce-project\includes\functions.php:146
+Stack trace:
+#0 C:\xampp\htdocs\chuan\week7\ecommerce-project\cart\checkout.php(53): validate_string('123', 500)
+#1 {main}
+  thrown in C:\xampp\htdocs\chuan\week7\ecommerce-project\includes\functions.php on line 146
+[21-Oct-2025 13:10:15 UTC] === CART PAGE LOAD ===
+[21-Oct-2025 13:10:15 UTC] Session cart: Array
+(
+    [2] => 1
+    [1] => 1
+)
+
+[21-Oct-2025 13:10:15 UTC] Cart items loaded: 2 items
+[21-Oct-2025 13:10:15 UTC] Cart page ready - Items: 2, Total: $309.98
+[21-Oct-2025 13:10:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strlen() in C:\xampp\htdocs\chuan\week7\ecommerce-project\includes\functions.php:146
+Stack trace:
+#0 C:\xampp\htdocs\chuan\week7\ecommerce-project\cart\checkout.php(53): validate_string('123', 500)
+#1 {main}
+  thrown in C:\xampp\htdocs\chuan\week7\ecommerce-project\includes\functions.php on line 146
+[21-Oct-2025 13:20:34 UTC] === CART PAGE LOAD ===
+[21-Oct-2025 13:20:34 UTC] Session cart: Array
+(
+    [2] => 1
+    [1] => 1
+)
+
+[21-Oct-2025 13:20:34 UTC] Cart items loaded: 2 items
+[21-Oct-2025 13:20:34 UTC] Cart page ready - Items: 2, Total: $309.98
+[21-Oct-2025 13:20:41 UTC] === CART PAGE LOAD ===
+[21-Oct-2025 13:20:41 UTC] Session cart: Array
+(
+    [2] => 1
+)
+
+[21-Oct-2025 13:20:41 UTC] Cart items loaded: 1 items
+[21-Oct-2025 13:20:41 UTC] Cart page ready - Items: 1, Total: $159.99
+[21-Oct-2025 13:20:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strlen() in C:\xampp\htdocs\chuan\week7\ecommerce-project\includes\functions.php:146
+Stack trace:
+#0 C:\xampp\htdocs\chuan\week7\ecommerce-project\cart\checkout.php(53): validate_string('11231231231', 500)
+#1 {main}
+  thrown in C:\xampp\htdocs\chuan\week7\ecommerce-project\includes\functions.php on line 146
+[21-Oct-2025 13:32:08 UTC] === CART PAGE LOAD ===
+[21-Oct-2025 13:32:08 UTC] Session cart: Array
+(
+    [2] => 1
+)
+
+[21-Oct-2025 13:32:08 UTC] Cart items loaded: 1 items
+[21-Oct-2025 13:32:08 UTC] Cart page ready - Items: 1, Total: $159.99
+[22-Oct-2025 00:35:02 UTC] === CHECKOUT DEBUG START ===
+[22-Oct-2025 00:35:02 UTC] User not logged in
+[22-Oct-2025 00:35:06 UTC] === LOGIN PROCESS START ===
+[22-Oct-2025 00:35:06 UTC] Login attempt: admin
+[22-Oct-2025 00:35:06 UTC] User found: admin
+[22-Oct-2025 00:35:06 UTC] Login SUCCESS - Redirecting to: /week7/ecommerce-project
+[22-Oct-2025 00:35:11 UTC] === CHECKOUT DEBUG START ===
+[22-Oct-2025 00:35:11 UTC] Cart is empty
+[22-Oct-2025 00:35:11 UTC] === CART PAGE LOAD ===
+[22-Oct-2025 00:35:11 UTC] Session cart: empty
+[22-Oct-2025 00:35:11 UTC] Cart is empty
+[22-Oct-2025 00:35:11 UTC] Cart page ready - Items: 0, Total: $0
+[22-Oct-2025 00:35:25 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[22-Oct-2025 00:35:25 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[22-Oct-2025 00:35:26 UTC] === ADD TO CART STARTED ===
+[22-Oct-2025 00:35:26 UTC] Product ID: 2, Quantity: 1
+[22-Oct-2025 00:35:26 UTC] Cart initialized
+[22-Oct-2025 00:35:26 UTC] Cart after add: Array
+(
+    [2] => 1
+)
+
+[22-Oct-2025 00:35:26 UTC] Redirecting to: /week7/ecommerce-project/cart/
+[22-Oct-2025 00:35:26 UTC] === CART PAGE LOAD ===
+[22-Oct-2025 00:35:26 UTC] Session cart: Array
+(
+    [2] => 1
+)
+
+[22-Oct-2025 00:35:26 UTC] Cart items loaded: 1 items
+[22-Oct-2025 00:35:26 UTC] Cart page ready - Items: 1, Total: $159.99
+[22-Oct-2025 00:35:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strlen() in C:\xampp\htdocs\chuan\week7\ecommerce-project\includes\functions.php:146
+Stack trace:
+#0 C:\xampp\htdocs\chuan\week7\ecommerce-project\cart\checkout.php(53): validate_string('13', 500)
+#1 {main}
+  thrown in C:\xampp\htdocs\chuan\week7\ecommerce-project\includes\functions.php on line 146
+[22-Oct-2025 00:38:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strlen() in C:\xampp\htdocs\chuan\week7\ecommerce-project\includes\functions.php:146
+Stack trace:
+#0 C:\xampp\htdocs\chuan\week7\ecommerce-project\cart\checkout.php(53): validate_string('1', 500)
+#1 {main}
+  thrown in C:\xampp\htdocs\chuan\week7\ecommerce-project\includes\functions.php on line 146
+[22-Oct-2025 00:39:22 UTC] === CART PAGE LOAD ===
+[22-Oct-2025 00:39:22 UTC] Session cart: Array
+(
+    [2] => 1
+)
+
+[22-Oct-2025 00:39:22 UTC] Cart items loaded: 1 items
+[22-Oct-2025 00:39:22 UTC] Cart page ready - Items: 1, Total: $159.99
+[22-Oct-2025 00:39:28 UTC] === CART PAGE LOAD ===
+[22-Oct-2025 00:39:28 UTC] Session cart: Array
+(
+    [2] => 1
+)
+
+[22-Oct-2025 00:39:28 UTC] Cart items loaded: 1 items
+[22-Oct-2025 00:39:28 UTC] Cart page ready - Items: 1, Total: $159.99
+[22-Oct-2025 00:46:25 UTC] === CART PAGE LOAD ===
+[22-Oct-2025 00:46:25 UTC] Session cart: empty
+[22-Oct-2025 00:46:25 UTC] Cart is empty
+[22-Oct-2025 00:46:25 UTC] Cart page ready - Items: 0, Total: $0
+[22-Oct-2025 00:46:27 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 21
+[22-Oct-2025 00:46:38 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[22-Oct-2025 00:46:38 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[22-Oct-2025 00:46:41 UTC] === ADD TO CART STARTED ===
+[22-Oct-2025 00:46:41 UTC] Product ID: 1, Quantity: 1
+[22-Oct-2025 00:46:41 UTC] Cart initialized
+[22-Oct-2025 00:46:41 UTC] Cart after add: Array
+(
+    [1] => 1
+)
+
+[22-Oct-2025 00:46:41 UTC] Redirecting to: /week7/ecommerce-project/cart/
+[22-Oct-2025 00:46:42 UTC] === CART PAGE LOAD ===
+[22-Oct-2025 00:46:42 UTC] Session cart: Array
+(
+    [1] => 1
+)
+
+[22-Oct-2025 00:46:42 UTC] Cart items loaded: 1 items
+[22-Oct-2025 00:46:42 UTC] Cart page ready - Items: 1, Total: $149.99
+[22-Oct-2025 00:46:49 UTC] === CART PAGE LOAD ===
+[22-Oct-2025 00:46:49 UTC] Session cart: Array
+(
+    [1] => 1
+)
+
+[22-Oct-2025 00:46:49 UTC] Cart items loaded: 1 items
+[22-Oct-2025 00:46:49 UTC] Cart page ready - Items: 1, Total: $149.99
+[22-Oct-2025 00:46:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strlen() in C:\xampp\htdocs\chuan\week7\ecommerce-project\includes\functions.php:146
+Stack trace:
+#0 C:\xampp\htdocs\chuan\week7\ecommerce-project\cart\checkout.php(53): validate_string('111', 500)
+#1 {main}
+  thrown in C:\xampp\htdocs\chuan\week7\ecommerce-project\includes\functions.php on line 146
+[22-Oct-2025 00:47:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strlen() in C:\xampp\htdocs\chuan\week7\ecommerce-project\includes\functions.php:146
+Stack trace:
+#0 C:\xampp\htdocs\chuan\week7\ecommerce-project\cart\checkout.php(53): validate_string('123123', 500)
+#1 {main}
+  thrown in C:\xampp\htdocs\chuan\week7\ecommerce-project\includes\functions.php on line 146
+[22-Oct-2025 00:47:24 UTC] === CART PAGE LOAD ===
+[22-Oct-2025 00:47:24 UTC] Session cart: Array
+(
+    [1] => 1
+)
+
+[22-Oct-2025 00:47:24 UTC] Cart items loaded: 1 items
+[22-Oct-2025 00:47:24 UTC] Cart page ready - Items: 1, Total: $149.99
+[22-Oct-2025 00:47:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strlen() in C:\xampp\htdocs\chuan\week7\ecommerce-project\includes\functions.php:146
+Stack trace:
+#0 C:\xampp\htdocs\chuan\week7\ecommerce-project\cart\checkout.php(53): validate_string('123', 500)
+#1 {main}
+  thrown in C:\xampp\htdocs\chuan\week7\ecommerce-project\includes\functions.php on line 146
+[22-Oct-2025 00:49:50 UTC] === CART PAGE LOAD ===
+[22-Oct-2025 00:49:50 UTC] Session cart: empty
+[22-Oct-2025 00:49:50 UTC] Cart is empty
+[22-Oct-2025 00:49:50 UTC] Cart page ready - Items: 0, Total: $0
+[22-Oct-2025 00:49:59 UTC] === CART PAGE LOAD ===
+[22-Oct-2025 00:49:59 UTC] Session cart: empty
+[22-Oct-2025 00:49:59 UTC] Cart is empty
+[22-Oct-2025 00:49:59 UTC] Cart page ready - Items: 0, Total: $0
+[22-Oct-2025 00:50:07 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[22-Oct-2025 00:50:07 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[22-Oct-2025 00:50:08 UTC] === ADD TO CART STARTED ===
+[22-Oct-2025 00:50:08 UTC] Product ID: 6, Quantity: 1
+[22-Oct-2025 00:50:08 UTC] Cart initialized
+[22-Oct-2025 00:50:08 UTC] Cart after add: Array
+(
+    [6] => 1
+)
+
+[22-Oct-2025 00:50:08 UTC] Redirecting to: /week7/ecommerce-project/cart/
+[22-Oct-2025 00:50:09 UTC] === CART PAGE LOAD ===
+[22-Oct-2025 00:50:09 UTC] Session cart: Array
+(
+    [6] => 1
+)
+
+[22-Oct-2025 00:50:09 UTC] Cart items loaded: 1 items
+[22-Oct-2025 00:50:09 UTC] Cart page ready - Items: 1, Total: $79.99
+[22-Oct-2025 00:50:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strlen() in C:\xampp\htdocs\chuan\week7\ecommerce-project\includes\functions.php:146
+Stack trace:
+#0 C:\xampp\htdocs\chuan\week7\ecommerce-project\cart\checkout.php(53): validate_string('222', 500)
+#1 {main}
+  thrown in C:\xampp\htdocs\chuan\week7\ecommerce-project\includes\functions.php on line 146
+[22-Oct-2025 00:53:11 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[22-Oct-2025 00:53:11 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[22-Oct-2025 00:53:13 UTC] === ADD TO CART STARTED ===
+[22-Oct-2025 00:53:13 UTC] Product ID: 3, Quantity: 1
+[22-Oct-2025 00:53:13 UTC] Cart after add: Array
+(
+    [6] => 1
+    [3] => 1
+)
+
+[22-Oct-2025 00:53:13 UTC] Redirecting to: /week7/ecommerce-project/cart/
+[22-Oct-2025 00:53:13 UTC] === CART PAGE LOAD ===
+[22-Oct-2025 00:53:13 UTC] Session cart: Array
+(
+    [6] => 1
+    [3] => 1
+)
+
+[22-Oct-2025 00:53:13 UTC] Cart items loaded: 2 items
+[22-Oct-2025 00:53:13 UTC] Cart page ready - Items: 2, Total: $269.98
+[22-Oct-2025 00:53:16 UTC] === CART PAGE LOAD ===
+[22-Oct-2025 00:53:16 UTC] Session cart: Array
+(
+    [3] => 1
+)
+
+[22-Oct-2025 00:53:16 UTC] Cart items loaded: 1 items
+[22-Oct-2025 00:53:16 UTC] Cart page ready - Items: 1, Total: $189.99
+[22-Oct-2025 00:54:04 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 21
+[22-Oct-2025 00:54:10 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 21
+[22-Oct-2025 00:54:36 UTC] === CART PAGE LOAD ===
+[22-Oct-2025 00:54:36 UTC] Session cart: empty
+[22-Oct-2025 00:54:36 UTC] Cart is empty
+[22-Oct-2025 00:54:36 UTC] Cart page ready - Items: 0, Total: $0
+[22-Oct-2025 00:59:19 UTC] User logout: admin
+[22-Oct-2025 01:08:56 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[22-Oct-2025 01:08:56 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[22-Oct-2025 01:08:58 UTC] === ADD TO CART STARTED ===
+[22-Oct-2025 01:08:58 UTC] User not logged in
+[22-Oct-2025 01:44:05 UTC] === LOGIN PROCESS START ===
+[22-Oct-2025 01:44:05 UTC] Login attempt: admin
+[22-Oct-2025 01:44:05 UTC] User found: admin
+[22-Oct-2025 01:44:05 UTC] Login SUCCESS - Redirecting to: /week7/ecommerce-project
+[22-Oct-2025 01:45:09 UTC] User logout: admin
+[22-Oct-2025 01:45:12 UTC] === LOGIN PROCESS START ===
+[22-Oct-2025 01:45:12 UTC] Login attempt: admin
+[22-Oct-2025 01:45:12 UTC] User found: admin
+[22-Oct-2025 01:45:12 UTC] Login SUCCESS - Redirecting to: /week7/ecommerce-project
+[22-Oct-2025 01:53:02 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 35
+[22-Oct-2025 01:53:02 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 37
+[22-Oct-2025 01:53:02 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 37
+[22-Oct-2025 01:53:11 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 35
+[22-Oct-2025 01:53:11 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 37
+[22-Oct-2025 01:53:11 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 37
+[22-Oct-2025 02:23:37 UTC] PHP Warning:  Undefined array key "email" in C:\Users\ASUS\OneDrive\桌面\虚假的大学作业\澳方大三第一学期\chuan\513\week7\ecommerce-project\user\profile.php on line 35
+[22-Oct-2025 02:23:37 UTC] PHP Warning:  Undefined array key "created_at" in C:\Users\ASUS\OneDrive\桌面\虚假的大学作业\澳方大三第一学期\chuan\513\week7\ecommerce-project\user\profile.php on line 37
+[22-Oct-2025 02:23:37 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\Users\ASUS\OneDrive\桌面\虚假的大学作业\澳方大三第一学期\chuan\513\week7\ecommerce-project\user\profile.php on line 37
+[22-Oct-2025 02:23:40 UTC] PHP Warning:  Undefined array key "email" in C:\Users\ASUS\OneDrive\桌面\虚假的大学作业\澳方大三第一学期\chuan\513\week7\ecommerce-project\user\profile.php on line 35
+[22-Oct-2025 02:23:40 UTC] PHP Warning:  Undefined array key "created_at" in C:\Users\ASUS\OneDrive\桌面\虚假的大学作业\澳方大三第一学期\chuan\513\week7\ecommerce-project\user\profile.php on line 37
+[22-Oct-2025 02:23:40 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\Users\ASUS\OneDrive\桌面\虚假的大学作业\澳方大三第一学期\chuan\513\week7\ecommerce-project\user\profile.php on line 37
+[22-Oct-2025 02:23:43 UTC] User logout: admin
+[22-Oct-2025 02:24:45 UTC] === LOGIN PROCESS START ===
+[22-Oct-2025 02:24:45 UTC] Login attempt: admin
+[22-Oct-2025 02:24:45 UTC] User found: admin
+[22-Oct-2025 02:24:45 UTC] Login SUCCESS - Redirecting to: /ecommerce-project
+[22-Oct-2025 02:24:47 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 35
+[22-Oct-2025 02:24:47 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 37
+[22-Oct-2025 02:24:47 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 37
+[22-Oct-2025 03:08:01 UTC] User logout: admin
+[22-Oct-2025 03:08:06 UTC] === LOGIN PROCESS START ===
+[22-Oct-2025 03:08:06 UTC] Login attempt: testuser
+[22-Oct-2025 03:08:06 UTC] User found: testuser
+[22-Oct-2025 03:08:06 UTC] Login SUCCESS - Redirecting to: /ecommerce-project
+[22-Oct-2025 03:08:08 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 35
+[22-Oct-2025 03:08:08 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 37
+[22-Oct-2025 03:08:08 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 37
+[22-Oct-2025 03:08:20 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 35
+[22-Oct-2025 03:08:20 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 37
+[22-Oct-2025 03:08:20 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 37
+[22-Oct-2025 03:08:23 UTC] === CART PAGE LOAD ===
+[22-Oct-2025 03:08:23 UTC] Session cart: empty
+[22-Oct-2025 03:08:23 UTC] Cart is empty
+[22-Oct-2025 03:08:23 UTC] Cart page ready - Items: 0, Total: $0
+[22-Oct-2025 03:08:24 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 35
+[22-Oct-2025 03:08:24 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 37
+[22-Oct-2025 03:08:24 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 37
+[22-Oct-2025 03:08:26 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 35
+[22-Oct-2025 03:08:26 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 37
+[22-Oct-2025 03:08:26 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 37
+[22-Oct-2025 03:17:36 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[22-Oct-2025 03:17:36 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[22-Oct-2025 03:17:50 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[22-Oct-2025 03:17:50 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[22-Oct-2025 03:18:35 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[22-Oct-2025 03:18:35 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[22-Oct-2025 03:20:58 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 35
+[22-Oct-2025 03:20:58 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 37
+[22-Oct-2025 03:20:58 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 37
+[22-Oct-2025 03:22:06 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 35
+[22-Oct-2025 03:22:06 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 37
+[22-Oct-2025 03:22:06 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 37
+[22-Oct-2025 03:22:08 UTC] User logout: testuser
+[22-Oct-2025 03:22:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strlen() in C:\xampp\htdocs\chuan\week7\ecommerce-project\includes\functions.php:146
+Stack trace:
+#0 C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\process_register.php(14): validate_string('111', 50)
+#1 {main}
+  thrown in C:\xampp\htdocs\chuan\week7\ecommerce-project\includes\functions.php on line 146
+[22-Oct-2025 03:22:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strlen() in C:\xampp\htdocs\chuan\week7\ecommerce-project\includes\functions.php:146
+Stack trace:
+#0 C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\process_register.php(14): validate_string('111', 50)
+#1 {main}
+  thrown in C:\xampp\htdocs\chuan\week7\ecommerce-project\includes\functions.php on line 146
+[22-Oct-2025 03:23:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strlen() in C:\xampp\htdocs\chuan\week7\ecommerce-project\includes\functions.php:146
+Stack trace:
+#0 C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\process_register.php(14): validate_string('111', 50)
+#1 {main}
+  thrown in C:\xampp\htdocs\chuan\week7\ecommerce-project\includes\functions.php on line 146
+[22-Oct-2025 03:25:13 UTC] === LOGIN PROCESS START ===
+[22-Oct-2025 03:25:13 UTC] Login attempt: admin
+[22-Oct-2025 03:25:13 UTC] User found: admin
+[22-Oct-2025 03:25:13 UTC] Login SUCCESS - Redirecting to: /ecommerce-project
+[22-Oct-2025 03:31:15 UTC] User logout: admin
+[22-Oct-2025 03:31:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strlen() in C:\xampp\htdocs\chuan\week7\ecommerce-project\includes\functions.php:146
+Stack trace:
+#0 C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\process_register.php(14): validate_string('123', 50)
+#1 {main}
+  thrown in C:\xampp\htdocs\chuan\week7\ecommerce-project\includes\functions.php on line 146
+[22-Oct-2025 03:31:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strlen() in C:\xampp\htdocs\chuan\week7\ecommerce-project\includes\functions.php:146
+Stack trace:
+#0 C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\process_register.php(14): validate_string('123', 50)
+#1 {main}
+  thrown in C:\xampp\htdocs\chuan\week7\ecommerce-project\includes\functions.php on line 146
+[22-Oct-2025 03:31:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strlen() in C:\xampp\htdocs\chuan\week7\ecommerce-project\includes\functions.php:146
+Stack trace:
+#0 C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\process_register.php(14): validate_string('123', 50)
+#1 {main}
+  thrown in C:\xampp\htdocs\chuan\week7\ecommerce-project\includes\functions.php on line 146
+[22-Oct-2025 03:32:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strlen() in C:\xampp\htdocs\chuan\week7\ecommerce-project\includes\functions.php:146
+Stack trace:
+#0 C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\process_register.php(14): validate_string('qqq', 50)
+#1 {main}
+  thrown in C:\xampp\htdocs\chuan\week7\ecommerce-project\includes\functions.php on line 146
+[22-Oct-2025 03:32:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strlen() in C:\xampp\htdocs\chuan\week7\ecommerce-project\includes\functions.php:146
+Stack trace:
+#0 C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\process_register.php(14): validate_string('qqq', 50)
+#1 {main}
+  thrown in C:\xampp\htdocs\chuan\week7\ecommerce-project\includes\functions.php on line 146
+[22-Oct-2025 03:39:54 UTC] === LOGIN PROCESS START ===
+[22-Oct-2025 03:39:54 UTC] Login attempt: qqq
+[22-Oct-2025 03:39:54 UTC] User found: qqq
+[22-Oct-2025 03:39:54 UTC] Login SUCCESS - Redirecting to: /ecommerce-project
+[22-Oct-2025 03:40:19 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 35
+[22-Oct-2025 03:40:19 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 37
+[22-Oct-2025 03:40:19 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 37
+[22-Oct-2025 03:41:57 UTC] User logout: qqq
+[22-Oct-2025 03:42:06 UTC] === LOGIN PROCESS START ===
+[22-Oct-2025 03:42:06 UTC] Login attempt: admin
+[22-Oct-2025 03:42:06 UTC] User found: admin
+[22-Oct-2025 03:42:06 UTC] Login SUCCESS - Redirecting to: /ecommerce-project
+[22-Oct-2025 03:42:13 UTC] User logout: admin
+[22-Oct-2025 03:42:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strlen() in C:\xampp\htdocs\chuan\week7\ecommerce-project\includes\functions.php:146
+Stack trace:
+#0 C:\xampp\htdocs\chuan\week7\ecommerce-project\auth\process_register.php(14): validate_string('1234', 50)
+#1 {main}
+  thrown in C:\xampp\htdocs\chuan\week7\ecommerce-project\includes\functions.php on line 146
+[22-Oct-2025 03:45:48 UTC] === LOGIN PROCESS START ===
+[22-Oct-2025 03:45:48 UTC] Login attempt: 1234
+[22-Oct-2025 03:45:48 UTC] User found: 1234
+[22-Oct-2025 03:45:49 UTC] Login SUCCESS - Redirecting to: /ecommerce-project
+[22-Oct-2025 03:45:50 UTC] === CART PAGE LOAD ===
+[22-Oct-2025 03:45:50 UTC] Session cart: empty
+[22-Oct-2025 03:45:50 UTC] Cart is empty
+[22-Oct-2025 03:45:50 UTC] Cart page ready - Items: 0, Total: $0
+[22-Oct-2025 03:45:52 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 35
+[22-Oct-2025 03:45:52 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 37
+[22-Oct-2025 03:45:52 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 37
+[22-Oct-2025 03:45:55 UTC] User logout: 1234
+[22-Oct-2025 03:45:59 UTC] === LOGIN PROCESS START ===
+[22-Oct-2025 03:45:59 UTC] Login attempt: admin
+[22-Oct-2025 03:45:59 UTC] User found: admin
+[22-Oct-2025 03:45:59 UTC] Login SUCCESS - Redirecting to: /ecommerce-project
+[22-Oct-2025 04:02:23 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[22-Oct-2025 04:02:23 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[22-Oct-2025 04:02:29 UTC] === CART PAGE LOAD ===
+[22-Oct-2025 04:02:29 UTC] Session cart: empty
+[22-Oct-2025 04:02:29 UTC] Cart is empty
+[22-Oct-2025 04:02:29 UTC] Cart page ready - Items: 0, Total: $0
+[22-Oct-2025 04:02:31 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 35
+[22-Oct-2025 04:02:31 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 37
+[22-Oct-2025 04:02:31 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 37
+[23-Oct-2025 00:21:28 UTC] === LOGIN PROCESS START ===
+[23-Oct-2025 00:21:28 UTC] Login attempt: admin
+[23-Oct-2025 00:21:28 UTC] User found: admin
+[23-Oct-2025 00:21:28 UTC] Login SUCCESS - Redirecting to: /ecommerce-project
+[23-Oct-2025 00:51:51 UTC] === CART PAGE LOAD ===
+[23-Oct-2025 00:51:51 UTC] Session cart: empty
+[23-Oct-2025 00:51:51 UTC] Cart is empty
+[23-Oct-2025 00:51:51 UTC] Cart page ready - Items: 0, Total: $0
+[23-Oct-2025 01:01:27 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 35
+[23-Oct-2025 01:01:27 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 37
+[23-Oct-2025 01:01:27 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 37
+[23-Oct-2025 01:01:33 UTC] === CART PAGE LOAD ===
+[23-Oct-2025 01:01:33 UTC] Session cart: empty
+[23-Oct-2025 01:01:33 UTC] Cart is empty
+[23-Oct-2025 01:01:33 UTC] Cart page ready - Items: 0, Total: $0
+[23-Oct-2025 03:11:02 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 35
+[23-Oct-2025 03:11:02 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 37
+[23-Oct-2025 03:11:02 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 37
+[23-Oct-2025 03:17:11 UTC] === CART PAGE LOAD ===
+[23-Oct-2025 03:17:11 UTC] Session cart: empty
+[23-Oct-2025 03:17:11 UTC] Cart is empty
+[23-Oct-2025 03:17:11 UTC] Cart page ready - Items: 0, Total: $0
+[23-Oct-2025 03:17:25 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[23-Oct-2025 03:17:25 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[23-Oct-2025 03:27:12 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[23-Oct-2025 03:27:12 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[23-Oct-2025 03:27:26 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[23-Oct-2025 03:27:26 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[23-Oct-2025 03:27:36 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[23-Oct-2025 03:27:36 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[23-Oct-2025 03:38:17 UTC] === CART PAGE LOAD ===
+[23-Oct-2025 03:38:17 UTC] Session cart: empty
+[23-Oct-2025 03:38:17 UTC] Cart is empty
+[23-Oct-2025 03:38:17 UTC] Cart page ready - Items: 0, Total: $0
+[23-Oct-2025 03:38:23 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[23-Oct-2025 03:38:23 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[23-Oct-2025 03:38:25 UTC] === ADD TO CART STARTED ===
+[23-Oct-2025 03:38:25 UTC] Product ID: 2, Quantity: 1
+[23-Oct-2025 03:38:25 UTC] Cart initialized
+[23-Oct-2025 03:38:25 UTC] Cart after add: Array
+(
+    [2] => 1
+)
+
+[23-Oct-2025 03:38:25 UTC] Redirecting to: /ecommerce-project/cart/
+[23-Oct-2025 03:38:25 UTC] === CART PAGE LOAD ===
+[23-Oct-2025 03:38:25 UTC] Session cart: Array
+(
+    [2] => 1
+)
+
+[23-Oct-2025 03:38:25 UTC] Cart items loaded: 1 items
+[23-Oct-2025 03:38:25 UTC] Cart page ready - Items: 1, Total: $159.99
+[23-Oct-2025 05:22:46 UTC] === LOGIN PROCESS START ===
+[23-Oct-2025 05:22:46 UTC] Login attempt: admin
+[23-Oct-2025 05:22:46 UTC] User found: admin
+[23-Oct-2025 05:22:46 UTC] Login SUCCESS - Redirecting to: /ecommerce-project
+[23-Oct-2025 05:23:20 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 35
+[23-Oct-2025 05:23:20 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 37
+[23-Oct-2025 05:23:20 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 37
+[23-Oct-2025 05:23:23 UTC] === CART PAGE LOAD ===
+[23-Oct-2025 05:23:23 UTC] Session cart: empty
+[23-Oct-2025 05:23:23 UTC] Cart is empty
+[23-Oct-2025 05:23:23 UTC] Cart page ready - Items: 0, Total: $0
+[23-Oct-2025 05:23:38 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[23-Oct-2025 05:23:38 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[23-Oct-2025 05:23:39 UTC] === ADD TO CART STARTED ===
+[23-Oct-2025 05:23:39 UTC] Product ID: 1, Quantity: 1
+[23-Oct-2025 05:23:39 UTC] Cart initialized
+[23-Oct-2025 05:23:39 UTC] Cart after add: Array
+(
+    [1] => 1
+)
+
+[23-Oct-2025 05:23:39 UTC] Redirecting to: /ecommerce-project/cart/
+[23-Oct-2025 05:23:39 UTC] === CART PAGE LOAD ===
+[23-Oct-2025 05:23:39 UTC] Session cart: Array
+(
+    [1] => 1
+)
+
+[23-Oct-2025 05:23:39 UTC] Cart items loaded: 1 items
+[23-Oct-2025 05:23:39 UTC] Cart page ready - Items: 1, Total: $149.99
+[23-Oct-2025 05:23:46 UTC] === CART PAGE LOAD ===
+[23-Oct-2025 05:23:46 UTC] Session cart: Array
+(
+    [1] => 2
+)
+
+[23-Oct-2025 05:23:46 UTC] Cart items loaded: 1 items
+[23-Oct-2025 05:23:46 UTC] Cart page ready - Items: 1, Total: $299.98
+[23-Oct-2025 05:24:21 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[23-Oct-2025 05:24:21 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[23-Oct-2025 05:24:23 UTC] === ADD TO CART STARTED ===
+[23-Oct-2025 05:24:23 UTC] Product ID: 4, Quantity: 1
+[23-Oct-2025 05:24:23 UTC] Cart after add: Array
+(
+    [1] => 2
+    [4] => 1
+)
+
+[23-Oct-2025 05:24:23 UTC] Redirecting to: /ecommerce-project/cart/
+[23-Oct-2025 05:24:23 UTC] === CART PAGE LOAD ===
+[23-Oct-2025 05:24:23 UTC] Session cart: Array
+(
+    [1] => 2
+    [4] => 1
+)
+
+[23-Oct-2025 05:24:23 UTC] Cart items loaded: 2 items
+[23-Oct-2025 05:24:23 UTC] Cart page ready - Items: 2, Total: $389.97
+[23-Oct-2025 05:46:17 UTC] === CHECKOUT DEBUG START ===
+[23-Oct-2025 05:46:17 UTC] Cart contents: Array
+(
+    [1] => 2
+    [4] => 1
+)
+
+[23-Oct-2025 05:46:17 UTC] Checkout page displayed (no redirect happened)
+[23-Oct-2025 05:54:34 UTC] === CHECKOUT DEBUG START ===
+[23-Oct-2025 05:54:34 UTC] Cart contents: Array
+(
+    [1] => 2
+    [4] => 1
+)
+
+[23-Oct-2025 05:54:34 UTC] Checkout page displayed (no redirect happened)
+[23-Oct-2025 05:54:39 UTC] === CART PAGE LOAD ===
+[23-Oct-2025 05:54:39 UTC] Session cart: Array
+(
+    [1] => 2
+    [4] => 1
+)
+
+[23-Oct-2025 05:54:39 UTC] Cart items loaded: 2 items
+[23-Oct-2025 05:54:39 UTC] Cart page ready - Items: 2, Total: $389.97
+[23-Oct-2025 06:28:02 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 35
+[23-Oct-2025 06:28:02 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 37
+[23-Oct-2025 06:28:02 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 37
+[23-Oct-2025 06:45:09 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 35
+[23-Oct-2025 06:45:09 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 37
+[23-Oct-2025 06:45:09 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 37
+[23-Oct-2025 06:45:22 UTC] === CART PAGE LOAD ===
+[23-Oct-2025 06:45:22 UTC] Session cart: empty
+[23-Oct-2025 06:45:22 UTC] Cart is empty
+[23-Oct-2025 06:45:22 UTC] Cart page ready - Items: 0, Total: $0
+[23-Oct-2025 06:48:37 UTC] User logout: admin
+[23-Oct-2025 06:48:54 UTC] === LOGIN PROCESS START ===
+[23-Oct-2025 06:48:54 UTC] Login attempt: 123
+[23-Oct-2025 06:48:54 UTC] User not found: 123
+[23-Oct-2025 06:49:05 UTC] === LOGIN PROCESS START ===
+[23-Oct-2025 06:49:05 UTC] Login attempt: 1234
+[23-Oct-2025 06:49:05 UTC] User found: 1234
+[23-Oct-2025 06:49:06 UTC] Login SUCCESS - Redirecting to: /ecommerce-project
+[23-Oct-2025 06:49:13 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 35
+[23-Oct-2025 06:49:13 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 37
+[23-Oct-2025 06:49:13 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 37
+[23-Oct-2025 06:49:26 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[23-Oct-2025 06:49:26 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[23-Oct-2025 06:49:28 UTC] === ADD TO CART STARTED ===
+[23-Oct-2025 06:49:28 UTC] Product ID: 6, Quantity: 1
+[23-Oct-2025 06:49:28 UTC] Cart initialized
+[23-Oct-2025 06:49:28 UTC] Cart after add: Array
+(
+    [6] => 1
+)
+
+[23-Oct-2025 06:49:28 UTC] Redirecting to: /ecommerce-project/cart/
+[23-Oct-2025 06:49:28 UTC] === CART PAGE LOAD ===
+[23-Oct-2025 06:49:28 UTC] Session cart: Array
+(
+    [6] => 1
+)
+
+[23-Oct-2025 06:49:28 UTC] Cart items loaded: 1 items
+[23-Oct-2025 06:49:28 UTC] Cart page ready - Items: 1, Total: $79.99
+[23-Oct-2025 06:49:42 UTC] User logout: 1234
+[23-Oct-2025 06:49:47 UTC] === LOGIN PROCESS START ===
+[23-Oct-2025 06:49:47 UTC] Login attempt: admin
+[23-Oct-2025 06:49:47 UTC] User found: admin
+[23-Oct-2025 06:49:47 UTC] Login SUCCESS - Redirecting to: /ecommerce-project
+[23-Oct-2025 07:07:16 UTC] Daily sales data: Array
+(
+)
+
+[23-Oct-2025 07:07:16 UTC] Using demo sales data for chart
+[23-Oct-2025 07:07:31 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[23-Oct-2025 07:07:31 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[23-Oct-2025 07:07:34 UTC] === ADD TO CART STARTED ===
+[23-Oct-2025 07:07:34 UTC] Product ID: 1, Quantity: 1
+[23-Oct-2025 07:07:34 UTC] Cart initialized
+[23-Oct-2025 07:07:34 UTC] Cart after add: Array
+(
+    [1] => 1
+)
+
+[23-Oct-2025 07:07:34 UTC] Redirecting to: /ecommerce-project/cart/
+[23-Oct-2025 07:07:35 UTC] === CART PAGE LOAD ===
+[23-Oct-2025 07:07:35 UTC] Session cart: Array
+(
+    [1] => 1
+)
+
+[23-Oct-2025 07:07:35 UTC] Cart items loaded: 1 items
+[23-Oct-2025 07:07:35 UTC] Cart page ready - Items: 1, Total: $149.99
+[23-Oct-2025 07:07:42 UTC] Daily sales data: Array
+(
+)
+
+[23-Oct-2025 07:07:42 UTC] Using demo sales data for chart
+[23-Oct-2025 07:09:07 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 35
+[23-Oct-2025 07:09:07 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 37
+[23-Oct-2025 07:09:07 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 37
+[23-Oct-2025 07:13:59 UTC] === CART PAGE LOAD ===
+[23-Oct-2025 07:13:59 UTC] Session cart: empty
+[23-Oct-2025 07:13:59 UTC] Cart is empty
+[23-Oct-2025 07:13:59 UTC] Cart page ready - Items: 0, Total: $0
+[23-Oct-2025 07:14:09 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[23-Oct-2025 07:14:09 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[23-Oct-2025 07:14:10 UTC] === ADD TO CART STARTED ===
+[23-Oct-2025 07:14:10 UTC] Product ID: 1, Quantity: 1
+[23-Oct-2025 07:14:10 UTC] Cart initialized
+[23-Oct-2025 07:14:10 UTC] Cart after add: Array
+(
+    [1] => 1
+)
+
+[23-Oct-2025 07:14:10 UTC] Redirecting to: /ecommerce-project/cart/
+[23-Oct-2025 07:14:11 UTC] === CART PAGE LOAD ===
+[23-Oct-2025 07:14:11 UTC] Session cart: Array
+(
+    [1] => 1
+)
+
+[23-Oct-2025 07:14:11 UTC] Cart items loaded: 1 items
+[23-Oct-2025 07:14:11 UTC] Cart page ready - Items: 1, Total: $149.99
+[23-Oct-2025 07:14:38 UTC] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 35
+[23-Oct-2025 07:14:38 UTC] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 37
+[23-Oct-2025 07:14:38 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\chuan\week7\ecommerce-project\user\profile.php on line 37
+[23-Oct-2025 07:14:39 UTC] === CART PAGE LOAD ===
+[23-Oct-2025 07:14:39 UTC] Session cart: empty
+[23-Oct-2025 07:14:39 UTC] Cart is empty
+[23-Oct-2025 07:14:39 UTC] Cart page ready - Items: 0, Total: $0
+[23-Oct-2025 07:25:38 UTC] Daily sales data: Array
+(
+    [0] => Array
+        (
+            [order_date] => 2025-10-23
+            [daily_sales] => 299.98
+        )
+
+)
+
+[23-Oct-2025 07:25:38 UTC] PHP Warning:  Undefined variable $stats in C:\xampp\htdocs\chuan\week7\ecommerce-project\admin\index.php on line 65
+[23-Oct-2025 07:25:38 UTC] PHP Warning:  Trying to access array offset on null in C:\xampp\htdocs\chuan\week7\ecommerce-project\admin\index.php on line 65
+[23-Oct-2025 07:25:38 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\chuan\week7\ecommerce-project\admin\index.php on line 65
+[23-Oct-2025 07:25:38 UTC] PHP Warning:  Undefined variable $stats in C:\xampp\htdocs\chuan\week7\ecommerce-project\admin\index.php on line 69
+[23-Oct-2025 07:25:38 UTC] PHP Warning:  Trying to access array offset on null in C:\xampp\htdocs\chuan\week7\ecommerce-project\admin\index.php on line 69
+[23-Oct-2025 07:25:38 UTC] PHP Warning:  Undefined variable $total_users in C:\xampp\htdocs\chuan\week7\ecommerce-project\admin\index.php on line 73
+[23-Oct-2025 07:25:38 UTC] PHP Warning:  Undefined variable $top_products in C:\xampp\htdocs\chuan\week7\ecommerce-project\admin\index.php on line 85
+[23-Oct-2025 07:25:38 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\chuan\week7\ecommerce-project\admin\index.php on line 85
+[23-Oct-2025 07:25:48 UTC] Daily sales data: Array
+(
+    [0] => Array
+        (
+            [order_date] => 2025-10-23
+            [daily_sales] => 299.98
+        )
+
+)
+
+[23-Oct-2025 07:25:48 UTC] PHP Warning:  Undefined variable $stats in C:\xampp\htdocs\chuan\week7\ecommerce-project\admin\index.php on line 65
+[23-Oct-2025 07:25:48 UTC] PHP Warning:  Trying to access array offset on null in C:\xampp\htdocs\chuan\week7\ecommerce-project\admin\index.php on line 65
+[23-Oct-2025 07:25:48 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\chuan\week7\ecommerce-project\admin\index.php on line 65
+[23-Oct-2025 07:25:48 UTC] PHP Warning:  Undefined variable $stats in C:\xampp\htdocs\chuan\week7\ecommerce-project\admin\index.php on line 69
+[23-Oct-2025 07:25:48 UTC] PHP Warning:  Trying to access array offset on null in C:\xampp\htdocs\chuan\week7\ecommerce-project\admin\index.php on line 69
+[23-Oct-2025 07:25:48 UTC] PHP Warning:  Undefined variable $total_users in C:\xampp\htdocs\chuan\week7\ecommerce-project\admin\index.php on line 73
+[23-Oct-2025 07:25:48 UTC] PHP Warning:  Undefined variable $top_products in C:\xampp\htdocs\chuan\week7\ecommerce-project\admin\index.php on line 85
+[23-Oct-2025 07:25:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\chuan\week7\ecommerce-project\admin\index.php on line 85
+[23-Oct-2025 07:28:22 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[23-Oct-2025 07:28:22 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[23-Oct-2025 07:28:23 UTC] === ADD TO CART STARTED ===
+[23-Oct-2025 07:28:23 UTC] Product ID: 3, Quantity: 1
+[23-Oct-2025 07:28:23 UTC] Cart initialized
+[23-Oct-2025 07:28:23 UTC] Cart after add: Array
+(
+    [3] => 1
+)
+
+[23-Oct-2025 07:28:23 UTC] Redirecting to: /ecommerce-project/cart/
+[23-Oct-2025 07:28:23 UTC] === CART PAGE LOAD ===
+[23-Oct-2025 07:28:23 UTC] Session cart: Array
+(
+    [3] => 1
+)
+
+[23-Oct-2025 07:28:23 UTC] Cart items loaded: 1 items
+[23-Oct-2025 07:28:23 UTC] Cart page ready - Items: 1, Total: $189.99
+[24-Oct-2025 01:17:00 UTC] Database connection failed: SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+[24-Oct-2025 01:28:17 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[24-Oct-2025 01:28:17 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[24-Oct-2025 01:38:27 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[24-Oct-2025 01:38:27 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[24-Oct-2025 01:40:22 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[24-Oct-2025 01:40:22 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[24-Oct-2025 01:51:58 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[24-Oct-2025 01:51:58 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[24-Oct-2025 02:18:04 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[24-Oct-2025 02:18:04 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[24-Oct-2025 02:19:00 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[24-Oct-2025 02:19:00 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[24-Oct-2025 02:19:01 UTC] === ADD TO CART STARTED ===
+[24-Oct-2025 02:19:01 UTC] User not logged in
+[24-Oct-2025 02:19:04 UTC] === LOGIN PROCESS START ===
+[24-Oct-2025 02:19:04 UTC] Login attempt: admin
+[24-Oct-2025 02:19:04 UTC] User found: admin
+[24-Oct-2025 02:19:04 UTC] Login SUCCESS - Redirecting to: /ecommerce-project
+[24-Oct-2025 02:19:09 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[24-Oct-2025 02:19:09 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[24-Oct-2025 02:33:03 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[24-Oct-2025 02:33:03 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[24-Oct-2025 02:57:18 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[24-Oct-2025 02:57:18 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[24-Oct-2025 03:02:20 UTC] === CART PAGE LOAD ===
+[24-Oct-2025 03:02:20 UTC] Session cart: empty
+[24-Oct-2025 03:02:20 UTC] Cart is empty
+[24-Oct-2025 03:02:20 UTC] Cart page ready - Items: 0, Total: $0
+[28-Oct-2025 07:17:14 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[28-Oct-2025 07:17:14 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[28-Oct-2025 07:41:19 UTC] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\export_csv.php on line 22
+[28-Oct-2025 07:41:19 UTC] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\export_csv.php on line 26
+[28-Oct-2025 07:41:19 UTC] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\export_csv.php on line 26
+[28-Oct-2025 07:41:19 UTC] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\export_csv.php on line 26
+[28-Oct-2025 07:41:19 UTC] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\export_csv.php on line 26
+[28-Oct-2025 07:41:19 UTC] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\export_csv.php on line 26
+[28-Oct-2025 07:41:19 UTC] PHP Deprecated:  fputcsv(): the $escape parameter must be provided as its default value will change in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\export_csv.php on line 26
+[29-Oct-2025 02:19:50 UTC] === LOGIN PROCESS START ===
+[29-Oct-2025 02:19:50 UTC] Login attempt: admin
+[29-Oct-2025 02:19:50 UTC] User found: admin
+[29-Oct-2025 02:19:50 UTC] Login SUCCESS - Redirecting to: /ecommerce-project
+[29-Oct-2025 02:19:53 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 02:19:53 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 02:20:06 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 02:20:06 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 02:20:36 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 02:20:36 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 02:26:58 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 02:26:58 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 02:30:24 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 02:30:24 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 02:30:37 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 02:30:37 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 02:32:30 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 02:32:30 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 02:32:42 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 02:32:42 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 02:32:53 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 02:32:53 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 02:33:48 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 02:33:48 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 02:36:10 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 02:36:10 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 03:07:05 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 03:07:05 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 03:09:26 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 03:09:26 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 03:11:02 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 03:11:02 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 03:12:57 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 03:12:57 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 03:15:19 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 03:15:19 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 03:19:14 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 03:19:14 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 03:19:27 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 03:19:27 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 03:20:55 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 03:20:55 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 03:20:59 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 03:20:59 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 03:21:55 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 03:21:55 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 03:22:10 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 03:22:10 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 03:22:17 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 03:22:17 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 03:22:24 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 03:22:24 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 03:22:28 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 03:22:28 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 03:37:09 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 03:37:09 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 03:47:22 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 03:47:22 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 03:47:38 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 03:47:38 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 03:49:37 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 03:49:37 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 03:51:36 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 03:51:36 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 03:55:40 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 03:55:40 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 03:56:01 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 03:56:01 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 03:56:41 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 03:56:41 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 03:57:30 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 03:57:30 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[30-Oct-2025 00:26:41 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[30-Oct-2025 00:26:41 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[30-Oct-2025 00:28:13 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[30-Oct-2025 00:28:13 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[30-Oct-2025 00:45:22 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[30-Oct-2025 00:45:22 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[30-Oct-2025 00:45:31 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[30-Oct-2025 00:45:31 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[30-Oct-2025 00:48:43 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[30-Oct-2025 00:48:43 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[30-Oct-2025 00:49:08 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[30-Oct-2025 00:49:08 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[30-Oct-2025 00:55:58 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[30-Oct-2025 00:55:58 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[30-Oct-2025 01:08:18 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[30-Oct-2025 01:08:18 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[30-Oct-2025 01:25:51 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[30-Oct-2025 01:25:51 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[30-Oct-2025 01:32:56 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[30-Oct-2025 01:32:56 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[30-Oct-2025 01:37:33 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[30-Oct-2025 01:37:33 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[30-Oct-2025 01:37:41 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[30-Oct-2025 01:37:41 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[30-Oct-2025 01:37:58 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[30-Oct-2025 01:37:58 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[30-Oct-2025 01:38:11 UTC] PHP Warning:  include(C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[30-Oct-2025 01:38:11 UTC] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\chuan\week7\ecommerce-project\products/../includes/reviews_section.php' for inclusion (include_path='.;C:\php\pear') in C:\xampp\htdocs\chuan\week7\ecommerce-project\products\view.php on line 116
+[29-Oct-2025 21:52:00 America/New_York] Database connection failed: SQLSTATE[HY000] [2002] No such file or directory
+[29-Oct-2025 21:52:04 America/New_York] Database connection failed: SQLSTATE[HY000] [2002] No such file or directory
+[29-Oct-2025 22:37:43 America/New_York] Database connection failed: SQLSTATE[HY000] [1045] Access denied for user 'if0_38341067_aeroclick'@'192.168.0.112' (using password: YES)
+[29-Oct-2025 22:38:09 America/New_York] Database connection failed: SQLSTATE[HY000] [1045] Access denied for user 'if0_38341067_aeroclick'@'192.168.0.112' (using password: YES)
+[29-Oct-2025 22:38:12 America/New_York] Database connection failed: SQLSTATE[HY000] [1045] Access denied for user 'if0_38341067_aeroclick'@'192.168.0.112' (using password: YES)
+[29-Oct-2025 22:38:17 America/New_York] Database connection failed: SQLSTATE[HY000] [1045] Access denied for user 'if0_38341067_aeroclick'@'192.168.0.112' (using password: YES)
+[29-Oct-2025 22:38:21 America/New_York] Database connection failed: SQLSTATE[HY000] [1045] Access denied for user 'if0_38341067_aeroclick'@'192.168.0.112' (using password: YES)
+[17-Nov-2025 02:47:26 America/New_York] === LOGIN PROCESS START ===
+[17-Nov-2025 02:47:26 America/New_York] Login attempt: grant
+[17-Nov-2025 02:47:26 America/New_York] User not found: grant
+[17-Nov-2025 02:47:47 America/New_York] === LOGIN PROCESS START ===
+[17-Nov-2025 02:47:47 America/New_York] Login attempt: admin
+[17-Nov-2025 02:47:47 America/New_York] User found - ID: 1, Username: admin, Email: admin@aeroclick.com, Phone: 
+[17-Nov-2025 02:47:47 America/New_York] Login SUCCESS - User: admin, Redirecting to: /513/week7/ecommerce-project
+[19-Nov-2025 22:01:11 America/New_York] === LOGIN PROCESS START ===
+[19-Nov-2025 22:01:11 America/New_York] Login attempt: 1459321941@qq.com
+[19-Nov-2025 22:01:11 America/New_York] Subscriber not found or not subscribed: 1459321941@qq.com
+[19-Nov-2025 22:01:23 America/New_York] === LOGIN PROCESS START ===
+[19-Nov-2025 22:01:23 America/New_York] Login attempt: hty1326547@163.com
+[19-Nov-2025 22:01:23 America/New_York] Subscriber found - ID: 2, Email: hty1326547@163.com
+[19-Nov-2025 22:01:23 America/New_York] SQL Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'if0_38341067_wp221.users' doesn't exist [Query: SELECT id, username, role FROM users WHERE email = ?]
+[19-Nov-2025 22:01:23 America/New_York] Database error: Database query failed
+[19-Nov-2025 22:01:52 America/New_York] === LOGIN PROCESS START ===
+[19-Nov-2025 22:01:52 America/New_York] Login attempt: 2049204016@qq.com
+[19-Nov-2025 22:01:52 America/New_York] Subscriber found - ID: 4, Email: 2049204016@qq.com
+[19-Nov-2025 22:01:52 America/New_York] SQL Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'if0_38341067_wp221.users' doesn't exist [Query: SELECT id, username, role FROM users WHERE email = ?]
+[19-Nov-2025 22:01:52 America/New_York] Database error: Database query failed
+[19-Nov-2025 22:04:34 America/New_York] === LOGIN PROCESS START ===
+[19-Nov-2025 22:04:34 America/New_York] Login attempt: 1459321941@qq.com
+[19-Nov-2025 22:04:34 America/New_York] SQL Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'if0_38341067_wp221.users' doesn't exist [Query: SELECT id, username, email, phone, role, status FROM users WHERE email = ? OR phone = ?]
+[19-Nov-2025 22:04:34 America/New_York] Database error: Database query failed
+[19-Nov-2025 22:06:08 America/New_York] === LOGIN PROCESS START ===
+[19-Nov-2025 22:06:08 America/New_York] Login attempt: 2506342762@qq.com
+[19-Nov-2025 22:06:08 America/New_York] Subscriber found - ID: 5, Email: 2506342762@qq.com
+[19-Nov-2025 22:06:08 America/New_York] SQL Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'if0_38341067_wp221.users' doesn't exist [Query: SELECT id, username, role FROM users WHERE email = ?]
+[19-Nov-2025 22:06:08 America/New_York] Database error: Database query failed
+[19-Nov-2025 22:06:23 America/New_York] === LOGIN PROCESS START ===
+[19-Nov-2025 22:06:23 America/New_York] Login attempt: 13738053838
+[19-Nov-2025 22:06:23 America/New_York] SQL Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'if0_38341067_wp221.users' doesn't exist [Query: SELECT id, username, email, phone, role, status FROM users WHERE email = ? OR phone = ?]
+[19-Nov-2025 22:06:23 America/New_York] Database error: Database query failed
+[19-Nov-2025 22:10:25 America/New_York] === LOGIN PROCESS START ===
+[19-Nov-2025 22:10:25 America/New_York] Login attempt: 1459321941@qq.com
+[19-Nov-2025 22:10:25 America/New_York] Connected to remote database successfully
+[19-Nov-2025 22:10:25 America/New_York] Attempting email lookup: 1459321941@qq.com
+[19-Nov-2025 22:10:25 America/New_York] Subscriber found - ID: 1, Email: 1459321941@qq.com, Status: pending
+[19-Nov-2025 22:10:25 America/New_York] Subscriber not active. Status: pending
+[19-Nov-2025 22:10:52 America/New_York] === LOGIN PROCESS START ===
+[19-Nov-2025 22:10:52 America/New_York] Login attempt: 13738053838
+[19-Nov-2025 22:10:52 America/New_York] Connected to remote database successfully
+[19-Nov-2025 22:10:52 America/New_York] Attempting phone lookup: 13738053838
+[19-Nov-2025 22:10:52 America/New_York] Subscriber not found: 13738053838
+[19-Nov-2025 22:13:59 America/New_York] === LOGIN PROCESS START ===
+[19-Nov-2025 22:13:59 America/New_York] Login attempt: 2049204016@qq.com
+[19-Nov-2025 22:13:59 America/New_York] Connected to remote database successfully
+[19-Nov-2025 22:13:59 America/New_York] Attempting email lookup: 2049204016@qq.com
+[19-Nov-2025 22:13:59 America/New_York] Subscriber found - ID: 4, Email: 2049204016@qq.com, Status: subscribed
+[19-Nov-2025 22:13:59 America/New_York] SQL Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'if0_38341067_wp221.users' doesn't exist [Query: SELECT id, username, role, status FROM users WHERE email = ?]
+[19-Nov-2025 22:13:59 America/New_York] Error with local database operations: Database query failed
+[19-Nov-2025 22:13:59 America/New_York] General error: Database query failed
+[19-Nov-2025 22:15:42 America/New_York] === LOGIN PROCESS START ===
+[19-Nov-2025 22:15:42 America/New_York] Login attempt: hty1326547@163.com
+[19-Nov-2025 22:15:42 America/New_York] Connected to remote database successfully
+[19-Nov-2025 22:15:42 America/New_York] Attempting email lookup: hty1326547@163.com
+[19-Nov-2025 22:15:42 America/New_York] Query result: Array
+(
+    [id] => 2
+    [user_id] => 
+    [hash] => 3c1fa90296edc0f5ac1e93bd48d5aa72
+    [contact_owner] => 
+    [company_id] => 
+    [prefix] => 
+    [first_name] => Huang
+    [last_name] => Tianyu
+    [email] => hty1326547@163.com
+    [timezone] => 
+    [address_line_1] => 
+    [address_line_2] => 
+    [postal_code] => 
+    [city] => 
+    [state] => 
+    [country] => 
+    [ip] => 39.184.255.88
+    [latitude] => 
+    [longitude] => 
+    [total_points] => 0
+    [life_time_value] => 0
+    [phone] => 
+    [status] => subscribed
+    [contact_type] => lead
+    [source] => 
+    [avatar] => 
+    [date_of_birth] => 
+    [created_at] => 2025-11-10 07:24:11
+    [last_activity] => 
+    [updated_at] => 2025-11-10 08:22:06
+)
+
+[19-Nov-2025 22:15:42 America/New_York] Subscriber found - ID: 2, Email: hty1326547@163.com, Status: subscribed
+[19-Nov-2025 22:15:42 America/New_York] SQL Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'if0_38341067_wp221.users' doesn't exist [Query: SELECT id, username, role, status FROM users WHERE email = ?]
+[19-Nov-2025 22:15:42 America/New_York] Error with local database operations: Database query failed
+[19-Nov-2025 22:15:42 America/New_York] General error: Database query failed
+[19-Nov-2025 22:17:54 America/New_York] === LOGIN PROCESS START ===
+[19-Nov-2025 22:17:54 America/New_York] Login attempt: fake.user006@example.org
+[19-Nov-2025 22:17:54 America/New_York] Connected to remote database successfully
+[19-Nov-2025 22:17:54 America/New_York] Attempting email lookup: fake.user006@example.org
+[19-Nov-2025 22:17:54 America/New_York] Query result: Array
+(
+    [id] => 11
+    [user_id] => 
+    [hash] => 
+    [contact_owner] => 
+    [company_id] => 
+    [prefix] => 
+    [first_name] => Xiao
+    [last_name] => Longnu
+    [email] => fake.user006@example.org
+    [timezone] => 
+    [address_line_1] => 
+    [address_line_2] => 
+    [postal_code] => 
+    [city] => 
+    [state] => 
+    [country] => 
+    [ip] => 
+    [latitude] => 
+    [longitude] => 
+    [total_points] => 0
+    [life_time_value] => 0
+    [phone] => 
+    [status] => subscribed
+    [contact_type] => lead
+    [source] => 
+    [avatar] => 
+    [date_of_birth] => 
+    [created_at] => 2025-11-09 15:40:00
+    [last_activity] => 
+    [updated_at] => 2025-11-09 15:40:00
+)
+
+[19-Nov-2025 22:17:54 America/New_York] Subscriber found - ID: 11, Email: fake.user006@example.org, Status: subscribed
+[19-Nov-2025 22:17:54 America/New_York] SQL Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'if0_38341067_wp221.users' doesn't exist [Query: SELECT id, username, role, status FROM users WHERE email = ?]
+[19-Nov-2025 22:17:54 America/New_York] Error with local database operations: Database query failed
+[19-Nov-2025 22:17:54 America/New_York] General error: Database query failed
+[19-Nov-2025 22:18:01 America/New_York] === LOGIN PROCESS START ===
+[19-Nov-2025 22:18:01 America/New_York] Login attempt: 1459321941@qq.com
+[19-Nov-2025 22:18:01 America/New_York] Connected to remote database successfully
+[19-Nov-2025 22:18:01 America/New_York] Attempting email lookup: 1459321941@qq.com
+[19-Nov-2025 22:18:01 America/New_York] Query result: Array
+(
+    [id] => 1
+    [user_id] => 1
+    [hash] => 65e06359796a29caa46f2df2e91aa4af
+    [contact_owner] => 
+    [company_id] => 
+    [prefix] => 
+    [first_name] => gao
+    [last_name] => yiheng
+    [email] => 1459321941@qq.com
+    [timezone] => 
+    [address_line_1] => 
+    [address_line_2] => 
+    [postal_code] => 
+    [city] => 
+    [state] => 
+    [country] => 
+    [ip] => 39.184.255.88
+    [latitude] => 
+    [longitude] => 
+    [total_points] => 0
+    [life_time_value] => 0
+    [phone] => 
+    [status] => pending
+    [contact_type] => lead
+    [source] => FluentForms
+    [avatar] => 
+    [date_of_birth] => 
+    [created_at] => 2025-11-10 07:13:31
+    [last_activity] => 2025-11-13 05:15:31
+    [updated_at] => 2025-11-10 07:32:03
+)
+
+[19-Nov-2025 22:18:01 America/New_York] Subscriber found - ID: 1, Email: 1459321941@qq.com, Status: pending
+[19-Nov-2025 22:18:01 America/New_York] Subscriber not active. Status: pending
+[19-Nov-2025 22:18:16 America/New_York] === LOGIN PROCESS START ===
+[19-Nov-2025 22:18:16 America/New_York] Login attempt: 1459321943@qq.com
+[19-Nov-2025 22:18:16 America/New_York] Connected to remote database successfully
+[19-Nov-2025 22:18:16 America/New_York] Attempting email lookup: 1459321943@qq.com
+[19-Nov-2025 22:18:16 America/New_York] Query result: Array
+(
+    [id] => 21
+    [user_id] => 
+    [hash] => eb4d29f5ae8619530030d8f604d79887
+    [contact_owner] => 
+    [company_id] => 
+    [prefix] => 
+    [first_name] => 111
+    [last_name] => 222
+    [email] => 1459321943@qq.com
+    [timezone] => 
+    [address_line_1] => 
+    [address_line_2] => 
+    [postal_code] => 
+    [city] => 
+    [state] => 
+    [country] => 
+    [ip] => 60.12.29.186
+    [latitude] => 
+    [longitude] => 
+    [total_points] => 0
+    [life_time_value] => 0
+    [phone] => 13738053838
+    [status] => pending
+    [contact_type] => lead
+    [source] => FluentForms
+    [avatar] => 
+    [date_of_birth] => 
+    [created_at] => 2025-11-20 01:02:15
+    [last_activity] => 
+    [updated_at] => 2025-11-20 01:02:15
+)
+
+[19-Nov-2025 22:18:16 America/New_York] Subscriber found - ID: 21, Email: 1459321943@qq.com, Status: pending
+[19-Nov-2025 22:18:16 America/New_York] Subscriber not active. Status: pending
+[19-Nov-2025 22:18:25 America/New_York] === LOGIN PROCESS START ===
+[19-Nov-2025 22:18:25 America/New_York] Login attempt: 2049204016@qq.com
+[19-Nov-2025 22:18:25 America/New_York] Connected to remote database successfully
+[19-Nov-2025 22:18:25 America/New_York] Attempting email lookup: 2049204016@qq.com
+[19-Nov-2025 22:18:25 America/New_York] Query result: Array
+(
+    [id] => 4
+    [user_id] => 
+    [hash] => daa0e3f7839616f2e25639427407312b
+    [contact_owner] => 
+    [company_id] => 
+    [prefix] => 
+    [first_name] => Xu
+    [last_name] => Zhihang
+    [email] => 2049204016@qq.com
+    [timezone] => 
+    [address_line_1] => 
+    [address_line_2] => 
+    [postal_code] => 
+    [city] => 
+    [state] => 
+    [country] => 
+    [ip] => 
+    [latitude] => 
+    [longitude] => 
+    [total_points] => 0
+    [life_time_value] => 0
+    [phone] => 
+    [status] => subscribed
+    [contact_type] => lead
+    [source] => 
+    [avatar] => 
+    [date_of_birth] => 
+    [created_at] => 2025-11-10 07:28:53
+    [last_activity] => 
+    [updated_at] => 2025-11-10 07:28:53
+)
+
+[19-Nov-2025 22:18:25 America/New_York] Subscriber found - ID: 4, Email: 2049204016@qq.com, Status: subscribed
+[19-Nov-2025 22:18:25 America/New_York] SQL Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'if0_38341067_wp221.users' doesn't exist [Query: SELECT id, username, role, status FROM users WHERE email = ?]
+[19-Nov-2025 22:18:25 America/New_York] Error with local database operations: Database query failed
+[19-Nov-2025 22:18:25 America/New_York] General error: Database query failed
+[21-Nov-2025 06:12:03 America/New_York] === LOGIN PROCESS START ===
+[21-Nov-2025 06:12:03 America/New_York] Login attempt: fake.user015@mock.net
+[21-Nov-2025 06:12:03 America/New_York] Connected to remote database successfully
+[21-Nov-2025 06:12:03 America/New_York] Attempting email lookup: fake.user015@mock.net
+[21-Nov-2025 06:12:03 America/New_York] Query result: Array
+(
+    [id] => 20
+    [user_id] => 
+    [hash] => 
+    [contact_owner] => 
+    [company_id] => 
+    [prefix] => 
+    [first_name] => Mei
+    [last_name] => Chaofeng
+    [email] => fake.user015@mock.net
+    [timezone] => 
+    [address_line_1] => 
+    [address_line_2] => 
+    [postal_code] => 
+    [city] => 
+    [state] => 
+    [country] => 
+    [ip] => 
+    [latitude] => 
+    [longitude] => 
+    [total_points] => 0
+    [life_time_value] => 0
+    [phone] => 
+    [status] => subscribed
+    [contact_type] => lead
+    [source] => 
+    [avatar] => 
+    [date_of_birth] => 
+    [created_at] => 2025-11-10 00:25:00
+    [last_activity] => 
+    [updated_at] => 2025-11-10 00:25:00
+)
+
+[21-Nov-2025 06:12:03 America/New_York] Subscriber found - ID: 20, Email: fake.user015@mock.net, Status: subscribed
+[21-Nov-2025 06:12:03 America/New_York] SQL Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'if0_38341067_wp221.users' doesn't exist [Query: SELECT id, username, role, status FROM users WHERE email = ?]
+[21-Nov-2025 06:12:03 America/New_York] Error with local database operations: Database query failed
+[21-Nov-2025 06:12:03 America/New_York] General error: Database query failed
+[21-Nov-2025 06:12:19 America/New_York] === LOGIN PROCESS START ===
+[21-Nov-2025 06:12:19 America/New_York] Login attempt: 1459321943@qq.com
+[21-Nov-2025 06:12:19 America/New_York] Connected to remote database successfully
+[21-Nov-2025 06:12:19 America/New_York] Attempting email lookup: 1459321943@qq.com
+[21-Nov-2025 06:12:19 America/New_York] Query result: Array
+(
+    [id] => 21
+    [user_id] => 
+    [hash] => eb4d29f5ae8619530030d8f604d79887
+    [contact_owner] => 
+    [company_id] => 
+    [prefix] => 
+    [first_name] => 111
+    [last_name] => 222
+    [email] => 1459321943@qq.com
+    [timezone] => 
+    [address_line_1] => 
+    [address_line_2] => 
+    [postal_code] => 
+    [city] => 
+    [state] => 
+    [country] => 
+    [ip] => 60.12.29.186
+    [latitude] => 
+    [longitude] => 
+    [total_points] => 0
+    [life_time_value] => 0
+    [phone] => 13738053838
+    [status] => pending
+    [contact_type] => lead
+    [source] => FluentForms
+    [avatar] => 
+    [date_of_birth] => 
+    [created_at] => 2025-11-20 01:02:15
+    [last_activity] => 
+    [updated_at] => 2025-11-20 01:02:15
+)
+
+[21-Nov-2025 06:12:19 America/New_York] Subscriber found - ID: 21, Email: 1459321943@qq.com, Status: pending
+[21-Nov-2025 06:12:19 America/New_York] Subscriber not active. Status: pending
+[21-Nov-2025 06:12:33 America/New_York] === LOGIN PROCESS START ===
+[21-Nov-2025 06:12:33 America/New_York] Login attempt: 	 1459321941@qq.com
+[21-Nov-2025 06:12:33 America/New_York] Connected to remote database successfully
+[21-Nov-2025 06:12:33 America/New_York] Invalid input format: 	 1459321941@qq.com
+[21-Nov-2025 06:12:41 America/New_York] === LOGIN PROCESS START ===
+[21-Nov-2025 06:12:41 America/New_York] Login attempt: hty1326547@163.com
+[21-Nov-2025 06:12:41 America/New_York] Connected to remote database successfully
+[21-Nov-2025 06:12:41 America/New_York] Attempting email lookup: hty1326547@163.com
+[21-Nov-2025 06:12:41 America/New_York] Query result: Array
+(
+    [id] => 2
+    [user_id] => 
+    [hash] => 3c1fa90296edc0f5ac1e93bd48d5aa72
+    [contact_owner] => 
+    [company_id] => 
+    [prefix] => 
+    [first_name] => Huang
+    [last_name] => Tianyu
+    [email] => hty1326547@163.com
+    [timezone] => 
+    [address_line_1] => 
+    [address_line_2] => 
+    [postal_code] => 
+    [city] => 
+    [state] => 
+    [country] => 
+    [ip] => 39.184.255.88
+    [latitude] => 
+    [longitude] => 
+    [total_points] => 0
+    [life_time_value] => 0
+    [phone] => 
+    [status] => subscribed
+    [contact_type] => lead
+    [source] => 
+    [avatar] => 
+    [date_of_birth] => 
+    [created_at] => 2025-11-10 07:24:11
+    [last_activity] => 
+    [updated_at] => 2025-11-10 08:22:06
+)
+
+[21-Nov-2025 06:12:41 America/New_York] Subscriber found - ID: 2, Email: hty1326547@163.com, Status: subscribed
+[21-Nov-2025 06:12:41 America/New_York] SQL Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'if0_38341067_wp221.users' doesn't exist [Query: SELECT id, username, role, status FROM users WHERE email = ?]
+[21-Nov-2025 06:12:41 America/New_York] Error with local database operations: Database query failed
+[21-Nov-2025 06:12:41 America/New_York] General error: Database query failed
+[21-Nov-2025 06:25:00 America/New_York] === LOGIN PROCESS START ===
+[21-Nov-2025 06:25:00 America/New_York] Login attempt: hty1326547@163.com
+[21-Nov-2025 06:25:00 America/New_York] WordPress database connected successfully
+[21-Nov-2025 06:25:00 America/New_York] User found: hty1326547@163.com - Status: subscribed
+[21-Nov-2025 06:25:00 America/New_York] Login SUCCESS - User ID: 2
+[21-Nov-2025 06:42:30 America/New_York] User logout: hty1326547@163.com
+[21-Nov-2025 06:42:34 America/New_York] === LOGIN PROCESS START ===
+[21-Nov-2025 06:42:34 America/New_York] Login attempt: 1459321941@qq.com
+[21-Nov-2025 06:42:34 America/New_York] WordPress database connected successfully
+[21-Nov-2025 06:42:34 America/New_York] User found: 1459321941@qq.com - Status: pending
+[21-Nov-2025 06:42:34 America/New_York] User not subscribed - status: pending
+[21-Nov-2025 06:45:53 America/New_York] === LOGIN PROCESS START ===
+[21-Nov-2025 06:45:53 America/New_York] Login attempt: 1459321941@qq.com
+[21-Nov-2025 06:45:53 America/New_York] WordPress database connected successfully
+[21-Nov-2025 06:45:53 America/New_York] User found: 1459321941@qq.com - Status: subscribed
+[21-Nov-2025 06:45:53 America/New_York] Login SUCCESS - User ID: 1, Role: admin
+[21-Nov-2025 06:46:46 America/New_York] User logout: 1459321941@qq.com
+[27-Nov-2025 00:58:34 America/New_York] === LOGIN PROCESS START ===
+[27-Nov-2025 00:58:34 America/New_York] Login attempt: 1459321941@qq.com
+[27-Nov-2025 00:58:34 America/New_York] WordPress database connected successfully
+[27-Nov-2025 00:58:34 America/New_York] User found: 1459321941@qq.com - Status: subscribed
+[27-Nov-2025 00:58:34 America/New_York] Login SUCCESS - User ID: 1, Role: admin
+[27-Nov-2025 00:59:04 America/New_York] === CART PAGE LOAD ===
+[27-Nov-2025 00:59:04 America/New_York] Session cart: empty
+[27-Nov-2025 00:59:04 America/New_York] Cart is empty
+[27-Nov-2025 00:59:04 America/New_York] Cart page ready - Items: 0, Total: $0
+[27-Nov-2025 00:59:35 America/New_York] === ADD TO CART STARTED ===
+[27-Nov-2025 00:59:35 America/New_York] Product ID: 4, Quantity: 1
+[27-Nov-2025 00:59:35 America/New_York] Cart initialized
+[27-Nov-2025 00:59:35 America/New_York] Cart after add: Array
+(
+    [4] => 1
+)
+
+[27-Nov-2025 00:59:35 America/New_York] Redirecting to: /513/week7/ecommerce-project/cart/
+[27-Nov-2025 00:59:36 America/New_York] === CART PAGE LOAD ===
+[27-Nov-2025 00:59:36 America/New_York] Session cart: Array
+(
+    [4] => 1
+)
+
+[27-Nov-2025 00:59:36 America/New_York] Cart items loaded: 1 items
+[27-Nov-2025 00:59:36 America/New_York] Cart page ready - Items: 1, Total: $89.99
+[27-Nov-2025 00:59:50 America/New_York] === ADD TO CART STARTED ===
+[27-Nov-2025 00:59:50 America/New_York] Product ID: 2, Quantity: 1
+[27-Nov-2025 00:59:50 America/New_York] Cart after add: Array
+(
+    [4] => 1
+    [2] => 1
+)
+
+[27-Nov-2025 00:59:50 America/New_York] Redirecting to: /513/week7/ecommerce-project/cart/
+[27-Nov-2025 00:59:50 America/New_York] === CART PAGE LOAD ===
+[27-Nov-2025 00:59:50 America/New_York] Session cart: Array
+(
+    [4] => 1
+    [2] => 1
+)
+
+[27-Nov-2025 00:59:50 America/New_York] Cart items loaded: 2 items
+[27-Nov-2025 00:59:50 America/New_York] Cart page ready - Items: 2, Total: $249.98
+[27-Nov-2025 01:29:34 America/New_York] === CART PAGE LOAD ===
+[27-Nov-2025 01:29:34 America/New_York] Session cart: empty
+[27-Nov-2025 01:29:34 America/New_York] Cart is empty
+[27-Nov-2025 01:29:34 America/New_York] Cart page ready - Items: 0, Total: $0
+[27-Nov-2025 01:31:02 America/New_York] User logout: 1459321941@qq.com
+[27-Nov-2025 01:31:09 America/New_York] === LOGIN PROCESS START ===
+[27-Nov-2025 01:31:09 America/New_York] Login attempt: hty1326547@163.com
+[27-Nov-2025 01:31:09 America/New_York] WordPress database connected successfully
+[27-Nov-2025 01:31:09 America/New_York] User found: hty1326547@163.com - Status: subscribed
+[27-Nov-2025 01:31:09 America/New_York] Login SUCCESS - User ID: 2, Role: user
+[27-Nov-2025 01:31:13 America/New_York] User logout: hty1326547@163.com
+[27-Nov-2025 01:31:19 America/New_York] === LOGIN PROCESS START ===
+[27-Nov-2025 01:31:19 America/New_York] Login attempt: 1459321941@qq.com
+[27-Nov-2025 01:31:19 America/New_York] WordPress database connected successfully
+[27-Nov-2025 01:31:19 America/New_York] User found: 1459321941@qq.com - Status: subscribed
+[27-Nov-2025 01:31:19 America/New_York] Login SUCCESS - User ID: 1, Role: admin
+[27-Nov-2025 01:54:35 America/New_York] === CART PAGE LOAD ===
+[27-Nov-2025 01:54:35 America/New_York] Session cart: empty
+[27-Nov-2025 01:54:35 America/New_York] Cart is empty
+[27-Nov-2025 01:54:35 America/New_York] Cart page ready - Items: 0, Total: $0
+[27-Nov-2025 01:54:43 America/New_York] === CART PAGE LOAD ===
+[27-Nov-2025 01:54:43 America/New_York] Session cart: empty
+[27-Nov-2025 01:54:43 America/New_York] Cart is empty
+[27-Nov-2025 01:54:43 America/New_York] Cart page ready - Items: 0, Total: $0
+[27-Nov-2025 01:54:45 America/New_York] === CART PAGE LOAD ===
+[27-Nov-2025 01:54:45 America/New_York] Session cart: empty
+[27-Nov-2025 01:54:45 America/New_York] Cart is empty
+[27-Nov-2025 01:54:45 America/New_York] Cart page ready - Items: 0, Total: $0
+[01-Dec-2025 04:03:51 America/New_York] Database Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'subject' in 'INSERT INTO'
+[01-Dec-2025 04:04:05 America/New_York] Database Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'subject' in 'INSERT INTO'
+[01-Dec-2025 04:04:19 America/New_York] Database Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'subject' in 'INSERT INTO'
+[01-Dec-2025 04:10:39 America/New_York] Attempting to connect to database: if0_38341067_wp221
+[01-Dec-2025 04:10:39 America/New_York] Database connection successful!
+[01-Dec-2025 04:10:39 America/New_York] Table 'wpri_feedback_submissions' exists.
+[01-Dec-2025 04:10:39 America/New_York] Table structure:
+[01-Dec-2025 04:10:39 America/New_York] Array
+(
+    [Field] => id
+    [Type] => mediumint(9)
+    [Null] => NO
+    [Key] => PRI
+    [Default] => 
+    [Extra] => auto_increment
+)
+
+[01-Dec-2025 04:10:39 America/New_York] Array
+(
+    [Field] => name
+    [Type] => varchar(100)
+    [Null] => NO
+    [Key] => 
+    [Default] => 
+    [Extra] => 
+)
+
+[01-Dec-2025 04:10:39 America/New_York] Array
+(
+    [Field] => email
+    [Type] => varchar(100)
+    [Null] => NO
+    [Key] => 
+    [Default] => 
+    [Extra] => 
+)
+
+[01-Dec-2025 04:10:39 America/New_York] Array
+(
+    [Field] => position
+    [Type] => varchar(150)
+    [Null] => YES
+    [Key] => 
+    [Default] => 
+    [Extra] => 
+)
+
+[01-Dec-2025 04:10:39 America/New_York] Array
+(
+    [Field] => message
+    [Type] => text
+    [Null] => NO
+    [Key] => 
+    [Default] => 
+    [Extra] => 
+)
+
+[01-Dec-2025 04:10:39 America/New_York] Array
+(
+    [Field] => files
+    [Type] => text
+    [Null] => YES
+    [Key] => 
+    [Default] => 
+    [Extra] => 
+)
+
+[01-Dec-2025 04:10:39 America/New_York] Array
+(
+    [Field] => submitted_at
+    [Type] => datetime
+    [Null] => YES
+    [Key] => 
+    [Default] => current_timestamp()
+    [Extra] => 
+)
+
+[01-Dec-2025 04:10:39 America/New_York] Attempting to insert data:
+[01-Dec-2025 04:10:39 America/New_York] Name: Grant
+[01-Dec-2025 04:10:39 America/New_York] Email: hty1326547@163.com
+[01-Dec-2025 04:10:39 America/New_York] Subject: feedback
+[01-Dec-2025 04:10:39 America/New_York] SQL: INSERT INTO wpri_feedback_submissions (name, email, subject, message, created_at) VALUES (:name, :email, :subject, :message, NOW())
+[01-Dec-2025 04:10:39 America/New_York] PDO Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'subject' in 'INSERT INTO'
+[01-Dec-2025 04:10:39 America/New_York] Error Code: 42S22
+[01-Dec-2025 04:10:39 America/New_York] File: /home/vol9_5/infinityfree.com/if0_38341067/htdocs/513/week7/ecommerce-project/contact_process.php Line: 122
+[02-Dec-2025 00:01:54 America/New_York] Attempting to connect to database: if0_38341067_wp221
+[02-Dec-2025 00:01:54 America/New_York] Database connection successful!
+[02-Dec-2025 00:01:54 America/New_York] Table 'wpri_feedback_submissions' exists.
+[02-Dec-2025 00:01:54 America/New_York] Table structure:
+[02-Dec-2025 00:01:54 America/New_York] Array
+(
+    [Field] => id
+    [Type] => mediumint(9)
+    [Null] => NO
+    [Key] => PRI
+    [Default] => 
+    [Extra] => auto_increment
+)
+
+[02-Dec-2025 00:01:54 America/New_York] Array
+(
+    [Field] => name
+    [Type] => varchar(100)
+    [Null] => NO
+    [Key] => 
+    [Default] => 
+    [Extra] => 
+)
+
+[02-Dec-2025 00:01:54 America/New_York] Array
+(
+    [Field] => email
+    [Type] => varchar(100)
+    [Null] => NO
+    [Key] => 
+    [Default] => 
+    [Extra] => 
+)
+
+[02-Dec-2025 00:01:54 America/New_York] Array
+(
+    [Field] => position
+    [Type] => varchar(150)
+    [Null] => YES
+    [Key] => 
+    [Default] => 
+    [Extra] => 
+)
+
+[02-Dec-2025 00:01:54 America/New_York] Array
+(
+    [Field] => message
+    [Type] => text
+    [Null] => NO
+    [Key] => 
+    [Default] => 
+    [Extra] => 
+)
+
+[02-Dec-2025 00:01:54 America/New_York] Array
+(
+    [Field] => files
+    [Type] => text
+    [Null] => YES
+    [Key] => 
+    [Default] => 
+    [Extra] => 
+)
+
+[02-Dec-2025 00:01:54 America/New_York] Array
+(
+    [Field] => submitted_at
+    [Type] => datetime
+    [Null] => YES
+    [Key] => 
+    [Default] => current_timestamp()
+    [Extra] => 
+)
+
+[02-Dec-2025 00:01:54 America/New_York] Attempting to insert data:
+[02-Dec-2025 00:01:54 America/New_York] Name: Grant
+[02-Dec-2025 00:01:54 America/New_York] Email: hty1326547@163.com
+[02-Dec-2025 00:01:54 America/New_York] Subject: feedback
+[02-Dec-2025 00:01:54 America/New_York] SQL: INSERT INTO wpri_feedback_submissions (name, email, subject, message, created_at) VALUES (:name, :email, :subject, :message, NOW())
+[02-Dec-2025 00:01:54 America/New_York] PDO Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'subject' in 'INSERT INTO'
+[02-Dec-2025 00:01:54 America/New_York] Error Code: 42S22
+[02-Dec-2025 00:01:54 America/New_York] File: /home/vol9_5/infinityfree.com/if0_38341067/htdocs/513/week7/ecommerce-project/contact_process.php Line: 122
+[02-Dec-2025 00:13:21 America/New_York] Contact form submitted successfully. ID: 1, Name: Grt, Email: hty1326547@163.com
+[02-Dec-2025 00:57:30 America/New_York] === LOGIN PROCESS START ===
+[02-Dec-2025 00:57:30 America/New_York] Login attempt: hty1326547@163.com
+[02-Dec-2025 00:57:30 America/New_York] WordPress database connected successfully
+[02-Dec-2025 00:57:30 America/New_York] User found: hty1326547@163.com - Status: subscribed
+[02-Dec-2025 00:57:30 America/New_York] Login SUCCESS - User ID: 2, Role: user
+[02-Dec-2025 01:36:44 America/New_York] Forum posts error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'if0_38341067_aeroclick.forum_posts' doesn't exist
+[02-Dec-2025 01:37:50 America/New_York] Forum posts error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'if0_38341067_aeroclick.forum_posts' doesn't exist
+[02-Dec-2025 01:39:27 America/New_York] Forum posts error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'if0_38341067_aeroclick.forum_posts' doesn't exist
+[02-Dec-2025 01:39:43 America/New_York] Forum posts error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'if0_38341067_aeroclick.forum_posts' doesn't exist
+[02-Dec-2025 01:50:05 America/New_York] Forum posts fetch error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'if0_38341067_aeroclick.forum_posts' doesn't exist
+[02-Dec-2025 01:51:06 America/New_York] Forum post creation error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'if0_38341067_aeroclick.forum_posts' doesn't exist
+[02-Dec-2025 01:51:06 America/New_York] Forum posts fetch error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'if0_38341067_aeroclick.forum_posts' doesn't exist
+[02-Dec-2025 01:52:48 America/New_York] Forum post creation error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'if0_38341067_aeroclick.forum_posts' doesn't exist
+[02-Dec-2025 01:52:48 America/New_York] Forum posts fetch error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'if0_38341067_aeroclick.forum_posts' doesn't exist
+[02-Dec-2025 01:52:52 America/New_York] Forum post creation error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'if0_38341067_aeroclick.forum_posts' doesn't exist
+[02-Dec-2025 01:52:52 America/New_York] Forum posts fetch error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'if0_38341067_aeroclick.forum_posts' doesn't exist
+[02-Dec-2025 02:10:17 America/New_York] WordPress database connected successfully
+[02-Dec-2025 02:11:10 America/New_York] WordPress database connected successfully
+[02-Dec-2025 02:11:20 America/New_York] WordPress database connected successfully
+[02-Dec-2025 02:11:20 America/New_York] WordPress database connected successfully
+[02-Dec-2025 02:11:57 America/New_York] User logout: hty1326547@163.com
+[02-Dec-2025 02:12:17 America/New_York] === LOGIN PROCESS START ===
+[02-Dec-2025 02:12:17 America/New_York] Login attempt: 1459321941@qq.com
+[02-Dec-2025 02:12:17 America/New_York] WordPress database connected successfully
+[02-Dec-2025 02:12:17 America/New_York] User found: 1459321941@qq.com - Status: subscribed
+[02-Dec-2025 02:12:17 America/New_York] Login SUCCESS - User ID: 1, Role: admin
+[02-Dec-2025 02:12:18 America/New_York] WordPress database connected successfully
+[02-Dec-2025 02:14:20 America/New_York] WordPress database connected successfully
+[02-Dec-2025 02:14:34 America/New_York] WordPress database connected successfully
+[02-Dec-2025 02:14:39 America/New_York] WordPress database connected successfully
+[02-Dec-2025 02:15:42 America/New_York] WordPress database connected successfully
+[02-Dec-2025 02:16:57 America/New_York] WordPress database connected successfully
+[02-Dec-2025 02:17:04 America/New_York] WordPress database connected successfully
+[02-Dec-2025 02:24:02 America/New_York] WordPress database connected successfully
+[02-Dec-2025 02:24:08 America/New_York] WordPress database connected successfully
+[02-Dec-2025 02:24:12 America/New_York] WordPress database connected successfully
+[02-Dec-2025 02:30:11 America/New_York] User logout: 1459321941@qq.com
+[02-Dec-2025 02:30:21 America/New_York] === LOGIN PROCESS START ===
+[02-Dec-2025 02:30:21 America/New_York] Login attempt: hty1326547@163.com
+[02-Dec-2025 02:30:21 America/New_York] WordPress database connected successfully
+[02-Dec-2025 02:30:21 America/New_York] User found: hty1326547@163.com - Status: subscribed
+[02-Dec-2025 02:30:21 America/New_York] Login SUCCESS - User ID: 2, Role: user
+[02-Dec-2025 02:30:29 America/New_York] User logout: hty1326547@163.com
+[02-Dec-2025 02:30:32 America/New_York] === LOGIN PROCESS START ===
+[02-Dec-2025 02:30:32 America/New_York] Login attempt: 1459321941@qq.com
+[02-Dec-2025 02:30:32 America/New_York] WordPress database connected successfully
+[02-Dec-2025 02:30:32 America/New_York] User found: 1459321941@qq.com - Status: subscribed
+[02-Dec-2025 02:30:32 America/New_York] Login SUCCESS - User ID: 1, Role: admin

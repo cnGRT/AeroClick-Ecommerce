@@ -1,0 +1,15 @@
+/* MIT License - https://github.com/abdulqadir995/Star-Rating-Widget */
+.star-rating {
+    display: inline-flex;
+    gap: 4px;
+}
+.star {
+    color: #ddd;
+    font-size: 1.4rem;
+    cursor: pointer;
+    transition: color 0.2s;
+}
+.star:hover,
+.star.active {
+    color: #ffcc00;
+}
